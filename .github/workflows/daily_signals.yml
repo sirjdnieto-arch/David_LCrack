@@ -1,0 +1,61 @@
+name: Señales diarias Telegram
+
+on:
+  schedule:
+    - cron: '30 0 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-telegram-ledger
+  cancel-in-progress: false
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: pip
+
+      - name: Instalar dependencias
+        run: pip install -r requirements.txt
+
+      - name: Escanear y avisar novedades
+        run: python scripts/daily_snapshot.py --send
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          PYTHONUNBUFFERED: '1'
+
+      - name: Conservar estado incluso ante fallo parcial
+        if: always()
+        run: |
+          if [ -d snapshots ]; then
+            git config user.name 'github-actions[bot]'
+            git config user.email 'github-actions[bot]@users.noreply.github.com'
+            git add snapshots/
+            if ! git diff --cached --quiet; then
+              git commit -m 'Actualizar registro de señales y avisos'
+              git pull --rebase origin main
+              git push origin HEAD:main
+            fi
+          fi
+
+      - name: Copia recuperable del registro
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: telegram-state-${{ github.run_number }}
+          path: snapshots/
+          if-no-files-found: ignore
+          retention-days: 30
