@@ -1,0 +1,2553 @@
+{
+  "version": 1,
+  "tickers": {
+    "AAPL": {
+      "baseline": "2026-10-21",
+      "seen": [
+        "AAPL|DIV_ALCISTA|2023-10-03",
+        "AAPL|CUNA_ROTA|2022-03-21",
+        "AAPL|CUNA_ROTA|2022-06-27",
+        "AAPL|CUNA_ROTA|2022-07-05",
+        "AAPL|CUNA_ROTA|2022-07-06",
+        "AAPL|CUNA_ROTA|2023-11-06",
+        "AAPL|CUNA_ROTA|2023-11-07",
+        "AAPL|CUNA_ROTA|2024-04-11",
+        "AAPL|CUNA_ROTA|2025-04-25"
+      ]
+    },
+    "MSFT": {
+      "baseline": "2026-10-21",
+      "seen": [
+        "MSFT|DIV_ALCISTA|2022-03-01",
+        "MSFT|DIV_ALCISTA|2026-02-11",
+        "MSFT|CUNA_ROTA|2022-07-05",
+        "MSFT|CUNA_ROTA|2022-07-07",
+        "MSFT|CUNA_ROTA|2022-11-11",
+        "MSFT|CUNA_ROTA|2023-09-05",
+        "MSFT|CUNA_ROTA|2023-10-16",
+        "MSFT|CUNA_ROTA|2024-05-06",
+        "MSFT|CUNA_ROTA|2024-09-11",
+        "MSFT|CUNA_ROTA|2025-03-21",
+        "MSFT|CUNA_ROTA|2025-04-09",
+        "MSFT|CUNA_ROTA|2025-09-30",
+        "MSFT|CUNA_ROTA|2026-07-30"
+      ]
+    },
+    "AMZN": {
+      "baseline": "2026-10-21",
+      "seen": [
+        "AMZN|DIV_ALCISTA|2022-05-27",
+        "AMZN|DIV_ALCISTA|2023-01-03",
+        "AMZN|DIV_ALCISTA|2025-03-21",
+        "AMZN|CUNA_ROTA|2022-07-07",
+        "AMZN|CUNA_ROTA|2022-11-30",
+        "AMZN|CUNA_ROTA|2022-12-13",
+        "AMZN|CUNA_ROTA|2023-03-30",
+        "AMZN|CUNA_ROTA|2023-04-19",
+        "AMZN|CUNA_ROTA|2024-09-10",
+        "AMZN|CUNA_ROTA|2025-10-27",
+        "AMZN|CUNA_ROTA|2026-03-17"
+      ]
+    },
+    "NVDA": {
+      "baseline": "2026-10-21",
+      "seen": [
+        "NVDA|DIV_ALCISTA|2022-09-21",
+        "NVDA|CUNA_ROTA|2022-05-26",
+        "NVDA|CUNA_ROTA|2022-06-24",
+        "NVDA|CUNA_ROTA|2022-07-15",
+        "NVDA|CUNA_ROTA|2022-10-21",
+        "NVDA|CUNA_ROTA|2025-12-22",
+        "NVDA|CUNA_ROTA|2026-08-05"
+      ]
+    },
+    "GOOG": {
+      "baseline": "2026-10-21",
+      "seen": [
+        "GOOG|DIV_ALCISTA|2022-05-17",
+        "GOOG|CUNA_ROTA|2022-06-24",
+        "GOOG|CUNA_ROTA|2022-10-18",
+        "GOOG|CUNA_ROTA|2024-03-14",
+        "GOOG|CUNA_ROTA|2025-04-24",
+        "GOOG|CUNA_ROTA|2026-03-09"
+      ]
+    },
+    "META": {
+      "baseline": "2026-10-21",
+      "seen": [
+        "META|DIV_ALCISTA|2022-03-01",
+        "META|DIV_ALCISTA|2022-06-28",
+        "META|DIV_ALCISTA|2022-10-18",
+        "META|DIV_ALCISTA|2025-04-24",
+        "META|CUNA_ROTA|2022-07-18",
+        "META|CUNA_ROTA|2022-07-19",
+        "META|CUNA_ROTA|2022-07-21",
+        "META|CUNA_ROTA|2022-11-30",
+        "META|CUNA_ROTA|2025-10-20",
+        "META|CUNA_ROTA|2026-08-28"
+      ]
+    },
+    "BRK-B": {
+      "baseline": "2026-10-21",
+      "seen": [
+        "BRK-B|DIV_ALCISTA|2022-05-24",
+        "BRK-B|CUNA_ROTA|2022-10-04",
+        "BRK-B|CUNA_ROTA|2022-10-18",
+        "BRK-B|CUNA_ROTA|2023-03-30",
+        "BRK-B|CUNA_ROTA|2023-11-14",
+        "BRK-B|CUNA_ROTA|2025-08-14",
+        "BRK-B|CUNA_ROTA|2026-05-11",
+        "BRK-B|CUNA_ROTA|2026-06-05"
+      ]
+    },
+    "TSLA": {
+      "baseline": "2026-10-21",
+      "seen": [
+        "TSLA|DIV_ALCISTA|2022-10-27",
+        "TSLA|DIV_ALCISTA|2022-11-28",
+        "TSLA|DIV_ALCISTA|2023-01-11",
+        "TSLA|DIV_ALCISTA|2024-02-08",
+        "TSLA|DIV_ALCISTA|2024-03-12",
+        "TSLA|CUNA_ROTA|2022-02-15",
+        "TSLA|CUNA_ROTA|2022-03-16",
+        "TSLA|CUNA_ROTA|2022-06-21",
+        "TSLA|CUNA_ROTA|2022-11-29",
+        "TSLA|CUNA_ROTA|2022-11-30",
+        "TSLA|CUNA_ROTA|2023-01-20",
+        "TSLA|CUNA_ROTA|2023-09-11",
+        "TSLA|CUNA_ROTA|2023-11-13",
+        "TSLA|CUNA_ROTA|2023-11-28",
+        "TSLA|CUNA_ROTA|2024-03-27",
+        "TSLA|CUNA_ROTA|2025-04-23",
+        "TSLA|CUNA_ROTA|2026-04-15",
+        "TSLA|CUNA_ROTA|2026-08-31"
+      ]
+    },
+    "JNJ": {
+      "baseline": "2026-10-21",
+      "seen": [
+        "JNJ|DIV_ALCISTA|2024-12-26",
+        "JNJ|CUNA_ROTA|2022-09-09",
+        "JNJ|CUNA_ROTA|2022-10-17",
+        "JNJ|CUNA_ROTA|2023-03-15",
+        "JNJ|CUNA_ROTA|2023-11-20",
+        "JNJ|CUNA_ROTA|2024-05-01",
+        "JNJ|CUNA_ROTA|2024-05-14",
+        "JNJ|CUNA_ROTA|2025-01-07",
+        "JNJ|CUNA_ROTA|2025-01-16",
+        "JNJ|CUNA_ROTA|2026-06-09"
+      ]
+    },
+    "V": {
+      "baseline": "2026-10-21",
+      "seen": [
+        "V|CUNA_ROTA|2022-07-11",
+        "V|CUNA_ROTA|2022-10-13",
+        "V|CUNA_ROTA|2024-05-15",
+        "V|CUNA_ROTA|2024-07-17",
+        "V|CUNA_ROTA|2024-08-16",
+        "V|CUNA_ROTA|2025-04-28",
+        "V|CUNA_ROTA|2025-08-22",
+        "V|CUNA_ROTA|2025-10-01",
+        "V|CUNA_ROTA|2025-12-11",
+        "V|CUNA_ROTA|2026-04-06",
+        "V|CUNA_ROTA|2026-04-08",
+        "V|CUNA_ROTA|2026-04-13",
+        "V|CUNA_ROTA|2026-04-15"
+      ]
+    },
+    "PG": {
+      "baseline": "2026-10-21",
+      "seen": [
+        "PG|DIV_ALCISTA|2022-10-13",
+        "PG|DIV_ALCISTA|2025-08-07",
+        "PG|CUNA_ROTA|2022-06-23",
+        "PG|CUNA_ROTA|2022-07-25",
+        "PG|CUNA_ROTA|2023-02-17",
+        "PG|CUNA_ROTA|2024-01-10",
+        "PG|CUNA_ROTA|2025-02-11",
+        "PG|CUNA_ROTA|2025-02-25",
+        "PG|CUNA_ROTA|2025-05-23",
+        "PG|CUNA_ROTA|2025-08-18",
+        "PG|CUNA_ROTA|2025-09-17",
+        "PG|CUNA_ROTA|2026-09-02",
+        "PG|CUNA_ROTA|2026-09-22"
+      ]
+    },
+    "XOM": {
+      "baseline": "2026-10-21",
+      "seen": [
+        "XOM|CUNA_ROTA|2022-08-23",
+        "XOM|CUNA_ROTA|2023-07-31",
+        "XOM|CUNA_ROTA|2024-01-03",
+        "XOM|CUNA_ROTA|2025-02-10",
+        "XOM|CUNA_ROTA|2025-06-10",
+        "XOM|CUNA_ROTA|2026-05-12",
+        "XOM|CUNA_ROTA|2026-07-22"
+      ]
+    },
+    "UNH": {
+      "baseline": "2026-10-21",
+      "seen": [
+        "UNH|DIV_ALCISTA|2023-01-24",
+        "UNH|DIV_ALCISTA|2026-04-02",
+        "UNH|CUNA_ROTA|2022-10-05",
+        "UNH|CUNA_ROTA|2023-02-17",
+        "UNH|CUNA_ROTA|2023-04-03",
+        "UNH|CUNA_ROTA|2023-07-14",
+        "UNH|CUNA_ROTA|2024-07-12",
+        "UNH|CUNA_ROTA|2025-01-24",
+        "UNH|CUNA_ROTA|2025-07-11",
+        "UNH|CUNA_ROTA|2025-11-25",
+        "UNH|CUNA_ROTA|2025-12-12",
+        "UNH|CUNA_ROTA|2026-09-03",
+        "UNH|CUNA_ROTA|2026-10-09"
+      ]
+    },
+    "JPM": {
+      "baseline": "2026-10-21",
+      "seen": [
+        "JPM|DIV_ALCISTA|2021-12-03",
+        "JPM|DIV_ALCISTA|2022-04-20",
+        "JPM|DIV_ALCISTA|2025-04-10",
+        "JPM|CUNA_ROTA|2022-05-23",
+        "JPM|CUNA_ROTA|2022-07-19",
+        "JPM|CUNA_ROTA|2022-08-09",
+        "JPM|CUNA_ROTA|2022-10-14",
+        "JPM|CUNA_ROTA|2023-04-12",
+        "JPM|CUNA_ROTA|2023-10-13"
+      ]
+    },
+    "HD": {
+      "baseline": "2026-10-21",
+      "seen": [
+        "HD|DIV_ALCISTA|2022-04-11",
+        "HD|DIV_ALCISTA|2024-04-30",
+        "HD|DIV_ALCISTA|2024-06-03",
+        "HD|DIV_ALCISTA|2025-04-14",
+        "HD|DIV_ALCISTA|2025-11-13",
+        "HD|CUNA_ROTA|2022-03-14",
+        "HD|CUNA_ROTA|2022-10-25",
+        "HD|CUNA_ROTA|2023-03-31",
+        "HD|CUNA_ROTA|2023-04-17",
+        "HD|CUNA_ROTA|2023-10-31",
+        "HD|CUNA_ROTA|2025-04-29",
+        "HD|CUNA_ROTA|2025-10-24",
+        "HD|CUNA_ROTA|2025-12-11",
+        "HD|CUNA_ROTA|2026-01-08"
+      ]
+    },
+    "LLY": {
+      "baseline": "2026-10-21",
+      "seen": [
+        "LLY|DIV_ALCISTA|2026-05-04",
+        "LLY|CUNA_ROTA|2022-02-16",
+        "LLY|CUNA_ROTA|2022-02-25",
+        "LLY|CUNA_ROTA|2025-01-10",
+        "LLY|CUNA_ROTA|2026-04-30",
+        "LLY|CUNA_ROTA|2026-10-14"
+      ]
+    },
+    "MA": {
+      "baseline": "2026-10-21",
+      "seen": [
+        "MA|DIV_ALCISTA|2024-07-05",
+        "MA|CUNA_ROTA|2022-07-12",
+        "MA|CUNA_ROTA|2022-10-17",
+        "MA|CUNA_ROTA|2023-06-29",
+        "MA|CUNA_ROTA|2024-06-20",
+        "MA|CUNA_ROTA|2025-11-12",
+        "MA|CUNA_ROTA|2026-03-31",
+        "MA|CUNA_ROTA|2026-04-13"
+      ]
+    },
+    "CVX": {
+      "baseline": "2026-10-21",
+      "seen": [
+        "CVX|DIV_ALCISTA|2023-11-14",
+        "CVX|DIV_ALCISTA|2024-09-16",
+        "CVX|CUNA_ROTA|2022-08-18",
+        "CVX|CUNA_ROTA|2023-03-28",
+        "CVX|CUNA_ROTA|2024-02-02",
+        "CVX|CUNA_ROTA|2024-09-19",
+        "CVX|CUNA_ROTA|2026-05-15",
+        "CVX|CUNA_ROTA|2026-07-17"
+      ]
+    },
+    "ABBV": {
+      "baseline": "2026-10-21",
+      "seen": [
+        "ABBV|DIV_ALCISTA|2023-07-03",
+        "ABBV|DIV_ALCISTA|2023-11-20",
+        "ABBV|DIV_ALCISTA|2026-05-01",
+        "ABBV|CUNA_ROTA|2022-07-15",
+        "ABBV|CUNA_ROTA|2023-02-24",
+        "ABBV|CUNA_ROTA|2023-07-14",
+        "ABBV|CUNA_ROTA|2024-12-13",
+        "ABBV|CUNA_ROTA|2025-06-10",
+        "ABBV|CUNA_ROTA|2025-07-09",
+        "ABBV|CUNA_ROTA|2026-04-30",
+        "ABBV|CUNA_ROTA|2026-05-19"
+      ]
+    },
+    "KO": {
+      "baseline": "2026-10-21",
+      "seen": [
+        "KO|DIV_ALCISTA|2025-01-13",
+        "KO|CUNA_ROTA|2023-03-06",
+        "KO|CUNA_ROTA|2023-06-14"
+      ]
+    },
+    "PEP": {
+      "baseline": "2026-10-21",
+      "seen": [
+        "PEP|DIV_ALCISTA|2024-12-27",
+        "PEP|CUNA_ROTA|2022-10-12",
+        "PEP|CUNA_ROTA|2023-09-13",
+        "PEP|CUNA_ROTA|2024-07-12",
+        "PEP|CUNA_ROTA|2025-01-24",
+        "PEP|CUNA_ROTA|2025-06-03",
+        "PEP|CUNA_ROTA|2025-06-27",
+        "PEP|CUNA_ROTA|2026-07-28"
+      ]
+    },
+    "COST": {
+      "baseline": "2026-10-21",
+      "seen": [
+        "COST|DIV_ALCISTA|2022-10-18",
+        "COST|DIV_ALCISTA|2023-01-10",
+        "COST|DIV_ALCISTA|2025-10-02",
+        "COST|CUNA_ROTA|2022-06-21",
+        "COST|CUNA_ROTA|2022-10-21",
+        "COST|CUNA_ROTA|2022-11-10",
+        "COST|CUNA_ROTA|2024-05-02",
+        "COST|CUNA_ROTA|2025-04-17",
+        "COST|CUNA_ROTA|2025-05-01",
+        "COST|CUNA_ROTA|2025-08-20",
+        "COST|CUNA_ROTA|2026-07-02",
+        "COST|CUNA_ROTA|2026-07-08",
+        "COST|CUNA_ROTA|2026-07-28",
+        "COST|CUNA_ROTA|2026-10-06"
+      ]
+    },
+    "BAC": {
+      "baseline": "2026-10-21",
+      "seen": [
+        "BAC|DIV_ALCISTA|2022-05-05",
+        "BAC|DIV_ALCISTA|2023-10-30",
+        "BAC|CUNA_ROTA|2022-05-26",
+        "BAC|CUNA_ROTA|2022-07-15",
+        "BAC|CUNA_ROTA|2022-07-18",
+        "BAC|CUNA_ROTA|2022-07-19",
+        "BAC|CUNA_ROTA|2022-10-13",
+        "BAC|CUNA_ROTA|2023-04-10",
+        "BAC|CUNA_ROTA|2023-05-23",
+        "BAC|CUNA_ROTA|2023-06-02",
+        "BAC|CUNA_ROTA|2023-11-02",
+        "BAC|CUNA_ROTA|2023-11-14",
+        "BAC|CUNA_ROTA|2024-09-19",
+        "BAC|CUNA_ROTA|2024-10-11"
+      ]
+    },
+    "CRM": {
+      "baseline": "2026-10-21",
+      "seen": [
+        "CRM|DIV_ALCISTA|2022-05-17",
+        "CRM|DIV_ALCISTA|2022-09-28",
+        "CRM|DIV_ALCISTA|2026-04-15",
+        "CRM|CUNA_ROTA|2022-01-31",
+        "CRM|CUNA_ROTA|2022-10-19",
+        "CRM|CUNA_ROTA|2022-11-15",
+        "CRM|CUNA_ROTA|2022-12-21",
+        "CRM|CUNA_ROTA|2023-11-02",
+        "CRM|CUNA_ROTA|2023-11-14",
+        "CRM|CUNA_ROTA|2026-04-20",
+        "CRM|CUNA_ROTA|2026-07-27"
+      ]
+    },
+    "NFLX": {
+      "baseline": "2026-10-21",
+      "seen": [
+        "NFLX|DIV_ALCISTA|2022-03-11",
+        "NFLX|DIV_ALCISTA|2022-05-17",
+        "NFLX|DIV_ALCISTA|2026-02-19",
+        "NFLX|DIV_ALCISTA|2026-07-22",
+        "NFLX|CUNA_ROTA|2025-09-04",
+        "NFLX|CUNA_ROTA|2026-02-25",
+        "NFLX|CUNA_ROTA|2026-06-10",
+        "NFLX|CUNA_ROTA|2026-07-28"
+      ]
+    },
+    "ABT": {
+      "baseline": "2026-10-21",
+      "seen": [
+        "ABT|DIV_ALCISTA|2022-03-01",
+        "ABT|DIV_ALCISTA|2022-10-26",
+        "ABT|DIV_ALCISTA|2023-03-15",
+        "ABT|DIV_ALCISTA|2026-03-27",
+        "ABT|CUNA_ROTA|2022-03-17",
+        "ABT|CUNA_ROTA|2022-05-26",
+        "ABT|CUNA_ROTA|2022-07-15",
+        "ABT|CUNA_ROTA|2023-06-15",
+        "ABT|CUNA_ROTA|2024-04-09",
+        "ABT|CUNA_ROTA|2024-04-26",
+        "ABT|CUNA_ROTA|2024-05-15",
+        "ABT|CUNA_ROTA|2024-07-17",
+        "ABT|CUNA_ROTA|2025-01-16",
+        "ABT|CUNA_ROTA|2025-01-21",
+        "ABT|CUNA_ROTA|2025-05-07",
+        "ABT|CUNA_ROTA|2025-12-15",
+        "ABT|CUNA_ROTA|2026-06-01"
+      ]
+    },
+    "MCD": {
+      "baseline": "2026-10-21",
+      "seen": [
+        "MCD|DIV_ALCISTA|2023-10-18",
+        "MCD|DIV_ALCISTA|2026-04-08",
+        "MCD|DIV_ALCISTA|2026-07-01",
+        "MCD|CUNA_ROTA|2023-09-13",
+        "MCD|CUNA_ROTA|2023-10-30",
+        "MCD|CUNA_ROTA|2025-01-27",
+        "MCD|CUNA_ROTA|2025-02-06",
+        "MCD|CUNA_ROTA|2025-07-10",
+        "MCD|CUNA_ROTA|2026-04-17",
+        "MCD|CUNA_ROTA|2026-05-29",
+        "MCD|CUNA_ROTA|2026-08-05",
+        "MCD|CUNA_ROTA|2026-08-12"
+      ]
+    },
+    "LMT": {
+      "baseline": "2026-10-21",
+      "seen": [
+        "LMT|DIV_ALCISTA|2023-10-02",
+        "LMT|DIV_ALCISTA|2024-12-02",
+        "LMT|DIV_ALCISTA|2025-01-14",
+        "LMT|DIV_ALCISTA|2025-02-03",
+        "LMT|DIV_ALCISTA|2025-12-05",
+        "LMT|DIV_ALCISTA|2026-06-29",
+        "LMT|CUNA_ROTA|2022-06-07",
+        "LMT|CUNA_ROTA|2023-06-21",
+        "LMT|CUNA_ROTA|2025-01-13",
+        "LMT|CUNA_ROTA|2025-12-11",
+        "LMT|CUNA_ROTA|2026-06-09",
+        "LMT|CUNA_ROTA|2026-07-02"
+      ]
+    },
+    "EL": {
+      "baseline": "2026-10-21",
+      "seen": [
+        "EL|DIV_ALCISTA|2022-03-01",
+        "EL|DIV_ALCISTA|2022-10-18",
+        "EL|DIV_ALCISTA|2022-11-08",
+        "EL|DIV_ALCISTA|2023-05-22",
+        "EL|DIV_ALCISTA|2023-06-15",
+        "EL|DIV_ALCISTA|2023-10-02",
+        "EL|DIV_ALCISTA|2023-10-18",
+        "EL|DIV_ALCISTA|2024-09-16",
+        "EL|DIV_ALCISTA|2024-11-18",
+        "EL|CUNA_ROTA|2022-03-22",
+        "EL|CUNA_ROTA|2022-04-19",
+        "EL|CUNA_ROTA|2022-05-26",
+        "EL|CUNA_ROTA|2022-06-02",
+        "EL|CUNA_ROTA|2022-06-06",
+        "EL|CUNA_ROTA|2022-11-01",
+        "EL|CUNA_ROTA|2022-11-04",
+        "EL|CUNA_ROTA|2023-03-24",
+        "EL|CUNA_ROTA|2023-06-30",
+        "EL|CUNA_ROTA|2023-10-17",
+        "EL|CUNA_ROTA|2024-07-22",
+        "EL|CUNA_ROTA|2024-07-26",
+        "EL|CUNA_ROTA|2024-08-15",
+        "EL|CUNA_ROTA|2024-09-03",
+        "EL|CUNA_ROTA|2024-09-24",
+        "EL|CUNA_ROTA|2025-03-27",
+        "EL|CUNA_ROTA|2026-08-04"
+      ]
+    },
+    "NEE": {
+      "baseline": "2026-10-21",
+      "seen": [
+        "NEE|DIV_ALCISTA|2022-05-17",
+        "NEE|DIV_ALCISTA|2022-10-26",
+        "NEE|CUNA_ROTA|2022-07-01",
+        "NEE|CUNA_ROTA|2022-11-10",
+        "NEE|CUNA_ROTA|2023-03-03",
+        "NEE|CUNA_ROTA|2023-09-08",
+        "NEE|CUNA_ROTA|2024-03-06",
+        "NEE|CUNA_ROTA|2025-01-03",
+        "NEE|CUNA_ROTA|2025-01-24",
+        "NEE|CUNA_ROTA|2025-05-08"
+      ]
+    },
+    "CAT": {
+      "baseline": "2026-10-21",
+      "seen": [
+        "CAT|DIV_ALCISTA|2023-04-12",
+        "CAT|DIV_ALCISTA|2025-02-28",
+        "CAT|DIV_ALCISTA|2026-09-04",
+        "CAT|CUNA_ROTA|2023-04-24",
+        "CAT|CUNA_ROTA|2023-06-02",
+        "CAT|CUNA_ROTA|2024-07-12",
+        "CAT|CUNA_ROTA|2024-08-23",
+        "CAT|CUNA_ROTA|2025-03-24",
+        "CAT|CUNA_ROTA|2026-09-08"
+      ]
+    },
+    "MRK": {
+      "baseline": "2026-10-21",
+      "seen": [
+        "MRK|DIV_ALCISTA|2025-04-22",
+        "MRK|DIV_ALCISTA|2025-05-20",
+        "MRK|CUNA_ROTA|2022-10-10",
+        "MRK|CUNA_ROTA|2022-10-11",
+        "MRK|CUNA_ROTA|2023-08-11",
+        "MRK|CUNA_ROTA|2023-08-14",
+        "MRK|CUNA_ROTA|2023-12-04",
+        "MRK|CUNA_ROTA|2024-07-29",
+        "MRK|CUNA_ROTA|2024-11-25",
+        "MRK|CUNA_ROTA|2025-01-06",
+        "MRK|CUNA_ROTA|2025-06-03",
+        "MRK|CUNA_ROTA|2025-06-09",
+        "MRK|CUNA_ROTA|2025-07-01",
+        "MRK|CUNA_ROTA|2026-05-13"
+      ]
+    },
+    "TPL": {
+      "baseline": "2026-10-21",
+      "seen": [
+        "TPL|DIV_ALCISTA|2023-02-14",
+        "TPL|DIV_ALCISTA|2023-05-22",
+        "TPL|DIV_ALCISTA|2023-06-28",
+        "TPL|CUNA_ROTA|2023-07-03",
+        "TPL|CUNA_ROTA|2024-01-29",
+        "TPL|CUNA_ROTA|2024-02-15",
+        "TPL|CUNA_ROTA|2024-02-21",
+        "TPL|CUNA_ROTA|2025-09-16",
+        "TPL|CUNA_ROTA|2025-11-06",
+        "TPL|CUNA_ROTA|2025-12-19",
+        "TPL|CUNA_ROTA|2026-01-09",
+        "TPL|CUNA_ROTA|2026-06-25",
+        "TPL|CUNA_ROTA|2026-10-08",
+        "TPL|CUNA_ROTA|2026-10-09"
+      ]
+    },
+    "ASML": {
+      "baseline": "2026-10-21",
+      "seen": [
+        "ASML|DIV_ALCISTA|2022-10-18",
+        "ASML|DIV_ALCISTA|2024-10-22",
+        "ASML|CUNA_ROTA|2022-07-20",
+        "ASML|CUNA_ROTA|2022-11-08",
+        "ASML|CUNA_ROTA|2023-08-23",
+        "ASML|CUNA_ROTA|2023-09-06",
+        "ASML|CUNA_ROTA|2023-10-12",
+        "ASML|CUNA_ROTA|2024-05-06",
+        "ASML|CUNA_ROTA|2024-08-13",
+        "ASML|CUNA_ROTA|2024-09-26",
+        "ASML|CUNA_ROTA|2024-11-25",
+        "ASML|CUNA_ROTA|2024-12-13",
+        "ASML|CUNA_ROTA|2025-05-02",
+        "ASML|CUNA_ROTA|2025-08-22",
+        "ASML|CUNA_ROTA|2026-04-08"
+      ]
+    },
+    "ADBE": {
+      "baseline": "2026-10-21",
+      "seen": [
+        "ADBE|DIV_ALCISTA|2022-02-01",
+        "ADBE|DIV_ALCISTA|2022-03-17",
+        "ADBE|DIV_ALCISTA|2023-05-17",
+        "ADBE|DIV_ALCISTA|2025-03-19",
+        "ADBE|DIV_ALCISTA|2026-02-18",
+        "ADBE|DIV_ALCISTA|2026-04-01",
+        "ADBE|CUNA_ROTA|2022-03-17",
+        "ADBE|CUNA_ROTA|2022-03-18",
+        "ADBE|CUNA_ROTA|2022-05-27",
+        "ADBE|CUNA_ROTA|2022-07-06",
+        "ADBE|CUNA_ROTA|2022-07-19",
+        "ADBE|CUNA_ROTA|2022-08-03",
+        "ADBE|CUNA_ROTA|2022-11-10",
+        "ADBE|CUNA_ROTA|2023-05-25",
+        "ADBE|CUNA_ROTA|2024-03-12",
+        "ADBE|CUNA_ROTA|2024-05-20",
+        "ADBE|CUNA_ROTA|2024-06-14",
+        "ADBE|CUNA_ROTA|2024-12-04",
+        "ADBE|CUNA_ROTA|2025-02-10",
+        "ADBE|CUNA_ROTA|2025-03-04",
+        "ADBE|CUNA_ROTA|2025-05-06",
+        "ADBE|CUNA_ROTA|2025-09-17",
+        "ADBE|CUNA_ROTA|2026-04-16",
+        "ADBE|CUNA_ROTA|2026-07-28",
+        "ADBE|CUNA_ROTA|2026-10-09"
+      ]
+    },
+    "AVGO": {
+      "baseline": "2026-10-21",
+      "seen": [
+        "AVGO|DIV_ALCISTA|2022-10-18",
+        "AVGO|CUNA_ROTA|2022-07-07",
+        "AVGO|CUNA_ROTA|2022-07-27",
+        "AVGO|CUNA_ROTA|2026-01-12",
+        "AVGO|CUNA_ROTA|2026-02-06",
+        "AVGO|CUNA_ROTA|2026-07-06",
+        "AVGO|CUNA_ROTA|2026-07-22",
+        "AVGO|CUNA_ROTA|2026-10-02"
+      ]
+    },
+    "CSCO": {
+      "baseline": "2026-10-21",
+      "seen": [
+        "CSCO|DIV_ALCISTA|2022-10-17",
+        "CSCO|DIV_ALCISTA|2023-11-02",
+        "CSCO|CUNA_ROTA|2022-06-21",
+        "CSCO|CUNA_ROTA|2022-11-17",
+        "CSCO|CUNA_ROTA|2023-11-14",
+        "CSCO|CUNA_ROTA|2025-09-17",
+        "CSCO|CUNA_ROTA|2025-10-01",
+        "CSCO|CUNA_ROTA|2026-01-26",
+        "CSCO|CUNA_ROTA|2026-03-17",
+        "CSCO|CUNA_ROTA|2026-09-21"
+      ]
+    },
+    "CMCSA": {
+      "baseline": "2026-10-21",
+      "seen": [
+        "CMCSA|DIV_ALCISTA|2021-12-17",
+        "CMCSA|DIV_ALCISTA|2022-06-23",
+        "CMCSA|DIV_ALCISTA|2022-10-17",
+        "CMCSA|DIV_ALCISTA|2024-05-01",
+        "CMCSA|DIV_ALCISTA|2025-01-06",
+        "CMCSA|DIV_ALCISTA|2025-10-22",
+        "CMCSA|DIV_ALCISTA|2025-12-04",
+        "CMCSA|CUNA_ROTA|2022-03-18",
+        "CMCSA|CUNA_ROTA|2022-07-19",
+        "CMCSA|CUNA_ROTA|2022-10-17",
+        "CMCSA|CUNA_ROTA|2022-11-11",
+        "CMCSA|CUNA_ROTA|2024-03-27",
+        "CMCSA|CUNA_ROTA|2025-06-10",
+        "CMCSA|CUNA_ROTA|2025-12-03",
+        "CMCSA|CUNA_ROTA|2026-06-09",
+        "CMCSA|CUNA_ROTA|2026-06-29"
+      ]
+    },
+    "AMD": {
+      "baseline": "2026-10-21",
+      "seen": [
+        "AMD|DIV_ALCISTA|2022-10-18",
+        "AMD|DIV_ALCISTA|2025-01-16",
+        "AMD|CUNA_ROTA|2022-05-13",
+        "AMD|CUNA_ROTA|2022-06-02",
+        "AMD|CUNA_ROTA|2022-11-30",
+        "AMD|CUNA_ROTA|2023-10-06",
+        "AMD|CUNA_ROTA|2024-05-10",
+        "AMD|CUNA_ROTA|2024-06-25",
+        "AMD|CUNA_ROTA|2024-09-13",
+        "AMD|CUNA_ROTA|2025-01-06",
+        "AMD|CUNA_ROTA|2025-10-02",
+        "AMD|CUNA_ROTA|2026-03-09",
+        "AMD|CUNA_ROTA|2026-03-19",
+        "AMD|CUNA_ROTA|2026-04-06"
+      ]
+    },
+    "TXN": {
+      "baseline": "2026-10-21",
+      "seen": [
+        "TXN|DIV_ALCISTA|2025-02-03",
+        "TXN|DIV_ALCISTA|2025-10-17",
+        "TXN|DIV_ALCISTA|2025-11-25",
+        "TXN|CUNA_ROTA|2022-07-08",
+        "TXN|CUNA_ROTA|2023-09-01",
+        "TXN|CUNA_ROTA|2023-11-15",
+        "TXN|CUNA_ROTA|2025-02-19",
+        "TXN|CUNA_ROTA|2025-05-02",
+        "TXN|CUNA_ROTA|2025-10-17",
+        "TXN|CUNA_ROTA|2025-11-25",
+        "TXN|CUNA_ROTA|2025-11-26",
+        "TXN|CUNA_ROTA|2025-11-28",
+        "TXN|CUNA_ROTA|2026-08-14",
+        "TXN|CUNA_ROTA|2026-09-18",
+        "TXN|CUNA_ROTA|2026-09-22"
+      ]
+    },
+    "QCOM": {
+      "baseline": "2026-10-21",
+      "seen": [
+        "QCOM|DIV_ALCISTA|2022-10-18",
+        "QCOM|DIV_ALCISTA|2023-05-30",
+        "QCOM|DIV_ALCISTA|2026-03-19",
+        "QCOM|DIV_ALCISTA|2026-03-27",
+        "QCOM|CUNA_ROTA|2022-04-28",
+        "QCOM|CUNA_ROTA|2022-05-27",
+        "QCOM|CUNA_ROTA|2022-05-31",
+        "QCOM|CUNA_ROTA|2022-06-02",
+        "QCOM|CUNA_ROTA|2022-07-08",
+        "QCOM|CUNA_ROTA|2023-09-25",
+        "QCOM|CUNA_ROTA|2023-10-02",
+        "QCOM|CUNA_ROTA|2024-09-16",
+        "QCOM|CUNA_ROTA|2024-12-23",
+        "QCOM|CUNA_ROTA|2025-01-06",
+        "QCOM|CUNA_ROTA|2026-03-25",
+        "QCOM|CUNA_ROTA|2026-08-25"
+      ]
+    },
+    "AMAT": {
+      "baseline": "2026-10-21",
+      "seen": [
+        "AMAT|CUNA_ROTA|2022-03-02",
+        "AMAT|CUNA_ROTA|2022-03-16",
+        "AMAT|CUNA_ROTA|2022-05-17",
+        "AMAT|CUNA_ROTA|2022-05-26",
+        "AMAT|CUNA_ROTA|2022-07-14",
+        "AMAT|CUNA_ROTA|2023-05-05",
+        "AMAT|CUNA_ROTA|2024-09-13",
+        "AMAT|CUNA_ROTA|2024-12-02",
+        "AMAT|CUNA_ROTA|2025-01-06",
+        "AMAT|CUNA_ROTA|2025-01-15"
+      ]
+    },
+    "LITE": {
+      "baseline": "2026-10-21",
+      "seen": [
+        "LITE|DIV_ALCISTA|2022-10-19",
+        "LITE|DIV_ALCISTA|2022-12-05",
+        "LITE|DIV_ALCISTA|2022-12-28",
+        "LITE|DIV_ALCISTA|2025-04-09",
+        "LITE|CUNA_ROTA|2022-07-19",
+        "LITE|CUNA_ROTA|2022-07-20",
+        "LITE|CUNA_ROTA|2022-10-21",
+        "LITE|CUNA_ROTA|2022-12-29",
+        "LITE|CUNA_ROTA|2024-03-21",
+        "LITE|CUNA_ROTA|2024-05-14",
+        "LITE|CUNA_ROTA|2025-03-24",
+        "LITE|CUNA_ROTA|2025-04-25",
+        "LITE|CUNA_ROTA|2025-04-28"
+      ]
+    },
+    "LRCX": {
+      "baseline": "2026-10-21",
+      "seen": [
+        "LRCX|CUNA_ROTA|2022-02-25",
+        "LRCX|CUNA_ROTA|2022-05-02",
+        "LRCX|CUNA_ROTA|2022-05-17",
+        "LRCX|CUNA_ROTA|2022-05-27",
+        "LRCX|CUNA_ROTA|2022-07-15",
+        "LRCX|CUNA_ROTA|2023-10-10",
+        "LRCX|CUNA_ROTA|2024-05-14",
+        "LRCX|CUNA_ROTA|2024-08-30",
+        "LRCX|CUNA_ROTA|2024-10-11",
+        "LRCX|CUNA_ROTA|2025-01-16",
+        "LRCX|CUNA_ROTA|2026-09-08"
+      ]
+    },
+    "COHR": {
+      "baseline": "2026-10-21",
+      "seen": [
+        "COHR|DIV_ALCISTA|2022-10-24",
+        "COHR|DIV_ALCISTA|2022-11-11",
+        "COHR|CUNA_ROTA|2022-06-06",
+        "COHR|CUNA_ROTA|2022-10-24",
+        "COHR|CUNA_ROTA|2023-09-14",
+        "COHR|CUNA_ROTA|2025-04-23",
+        "COHR|CUNA_ROTA|2026-08-04"
+      ]
+    },
+    "CMI": {
+      "baseline": "2026-10-21",
+      "seen": [
+        "CMI|DIV_ALCISTA|2021-12-23",
+        "CMI|DIV_ALCISTA|2022-03-11",
+        "CMI|DIV_ALCISTA|2023-03-29",
+        "CMI|DIV_ALCISTA|2023-11-03",
+        "CMI|CUNA_ROTA|2022-05-04",
+        "CMI|CUNA_ROTA|2022-05-17",
+        "CMI|CUNA_ROTA|2022-07-07",
+        "CMI|CUNA_ROTA|2023-04-18",
+        "CMI|CUNA_ROTA|2023-10-16",
+        "CMI|CUNA_ROTA|2026-04-08",
+        "CMI|CUNA_ROTA|2026-10-15"
+      ]
+    },
+    "NEM": {
+      "baseline": "2026-10-21",
+      "seen": [
+        "NEM|DIV_ALCISTA|2022-06-21",
+        "NEM|DIV_ALCISTA|2022-08-25",
+        "NEM|DIV_ALCISTA|2022-11-08",
+        "NEM|DIV_ALCISTA|2023-08-11",
+        "NEM|DIV_ALCISTA|2023-11-15",
+        "NEM|DIV_ALCISTA|2024-02-20",
+        "NEM|DIV_ALCISTA|2025-01-06",
+        "NEM|CUNA_ROTA|2022-08-23",
+        "NEM|CUNA_ROTA|2023-04-03",
+        "NEM|CUNA_ROTA|2023-07-03",
+        "NEM|CUNA_ROTA|2023-09-13",
+        "NEM|CUNA_ROTA|2024-03-27",
+        "NEM|CUNA_ROTA|2024-12-31",
+        "NEM|CUNA_ROTA|2026-05-11",
+        "NEM|CUNA_ROTA|2026-07-22",
+        "NEM|CUNA_ROTA|2026-08-05",
+        "NEM|CUNA_ROTA|2026-08-07"
+      ]
+    },
+    "ULTA": {
+      "baseline": "2026-10-21",
+      "seen": [
+        "ULTA|DIV_ALCISTA|2023-10-12",
+        "ULTA|DIV_ALCISTA|2024-05-29",
+        "ULTA|DIV_ALCISTA|2026-05-22",
+        "ULTA|CUNA_ROTA|2022-03-02",
+        "ULTA|CUNA_ROTA|2022-10-17",
+        "ULTA|CUNA_ROTA|2022-10-28",
+        "ULTA|CUNA_ROTA|2023-09-20",
+        "ULTA|CUNA_ROTA|2025-03-10",
+        "ULTA|CUNA_ROTA|2025-04-24",
+        "ULTA|CUNA_ROTA|2026-06-24",
+        "ULTA|CUNA_ROTA|2026-06-25",
+        "ULTA|CUNA_ROTA|2026-07-13",
+        "ULTA|CUNA_ROTA|2026-07-17",
+        "ULTA|CUNA_ROTA|2026-07-20"
+      ]
+    },
+    "IT": {
+      "baseline": "2026-10-21",
+      "seen": [
+        "IT|DIV_ALCISTA|2025-09-16",
+        "IT|DIV_ALCISTA|2026-02-27",
+        "IT|DIV_ALCISTA|2026-04-15",
+        "IT|CUNA_ROTA|2022-03-18",
+        "IT|CUNA_ROTA|2022-07-11",
+        "IT|CUNA_ROTA|2022-07-15",
+        "IT|CUNA_ROTA|2023-10-11",
+        "IT|CUNA_ROTA|2024-06-17",
+        "IT|CUNA_ROTA|2024-06-20",
+        "IT|CUNA_ROTA|2025-12-15",
+        "IT|CUNA_ROTA|2026-07-27"
+      ]
+    },
+    "FOXA": {
+      "baseline": "2026-10-21",
+      "seen": [
+        "FOXA|DIV_ALCISTA|2022-06-16",
+        "FOXA|DIV_ALCISTA|2024-03-12",
+        "FOXA|CUNA_ROTA|2022-05-26",
+        "FOXA|CUNA_ROTA|2022-07-07",
+        "FOXA|CUNA_ROTA|2022-10-13",
+        "FOXA|CUNA_ROTA|2023-03-31",
+        "FOXA|CUNA_ROTA|2023-06-02",
+        "FOXA|CUNA_ROTA|2023-06-06",
+        "FOXA|CUNA_ROTA|2023-10-10",
+        "FOXA|CUNA_ROTA|2024-01-10",
+        "FOXA|CUNA_ROTA|2024-03-19",
+        "FOXA|CUNA_ROTA|2026-04-08"
+      ]
+    },
+    "LUV": {
+      "baseline": "2026-10-21",
+      "seen": [
+        "LUV|DIV_ALCISTA|2023-03-29",
+        "LUV|DIV_ALCISTA|2024-04-17",
+        "LUV|DIV_ALCISTA|2024-06-03",
+        "LUV|DIV_ALCISTA|2025-04-24",
+        "LUV|DIV_ALCISTA|2026-04-08",
+        "LUV|CUNA_ROTA|2022-07-07",
+        "LUV|CUNA_ROTA|2022-10-13",
+        "LUV|CUNA_ROTA|2023-04-11",
+        "LUV|CUNA_ROTA|2023-06-02",
+        "LUV|CUNA_ROTA|2023-06-07",
+        "LUV|CUNA_ROTA|2024-05-13",
+        "LUV|CUNA_ROTA|2024-06-03",
+        "LUV|CUNA_ROTA|2025-09-17",
+        "LUV|CUNA_ROTA|2026-04-08",
+        "LUV|CUNA_ROTA|2026-04-17",
+        "LUV|CUNA_ROTA|2026-05-21",
+        "LUV|CUNA_ROTA|2026-10-06"
+      ]
+    },
+    "VLO": {
+      "baseline": "2026-10-21",
+      "seen": [
+        "VLO|CUNA_ROTA|2022-10-06",
+        "VLO|CUNA_ROTA|2023-06-07",
+        "VLO|CUNA_ROTA|2023-11-02",
+        "VLO|CUNA_ROTA|2023-11-27",
+        "VLO|CUNA_ROTA|2023-12-01",
+        "VLO|CUNA_ROTA|2024-06-26",
+        "VLO|CUNA_ROTA|2024-07-25",
+        "VLO|CUNA_ROTA|2024-10-01",
+        "VLO|CUNA_ROTA|2024-11-06"
+      ]
+    },
+    "ADP": {
+      "baseline": "2026-10-21",
+      "seen": [
+        "ADP|DIV_ALCISTA|2026-04-07",
+        "ADP|CUNA_ROTA|2022-02-25",
+        "ADP|CUNA_ROTA|2023-02-10",
+        "ADP|CUNA_ROTA|2023-03-29",
+        "ADP|CUNA_ROTA|2023-04-28",
+        "ADP|CUNA_ROTA|2023-12-01",
+        "ADP|CUNA_ROTA|2025-01-16",
+        "ADP|CUNA_ROTA|2025-05-02",
+        "ADP|CUNA_ROTA|2026-04-16"
+      ]
+    },
+    "FN": {
+      "baseline": "2026-10-21",
+      "seen": [
+        "FN|CUNA_ROTA|2022-03-02",
+        "FN|CUNA_ROTA|2022-03-15",
+        "FN|CUNA_ROTA|2022-05-27",
+        "FN|CUNA_ROTA|2022-10-21",
+        "FN|CUNA_ROTA|2025-01-17",
+        "FN|CUNA_ROTA|2025-03-24",
+        "FN|CUNA_ROTA|2025-04-29",
+        "FN|CUNA_ROTA|2025-05-02",
+        "FN|CUNA_ROTA|2025-05-05",
+        "FN|CUNA_ROTA|2025-05-13",
+        "FN|CUNA_ROTA|2026-08-04"
+      ]
+    },
+    "POET": {
+      "baseline": "2026-10-21",
+      "seen": [
+        "POET|DIV_ALCISTA|2022-01-31",
+        "POET|DIV_ALCISTA|2022-10-31",
+        "POET|DIV_ALCISTA|2023-10-30",
+        "POET|DIV_ALCISTA|2023-11-27",
+        "POET|DIV_ALCISTA|2023-12-05",
+        "POET|CUNA_ROTA|2022-08-01",
+        "POET|CUNA_ROTA|2022-08-23",
+        "POET|CUNA_ROTA|2022-11-02",
+        "POET|CUNA_ROTA|2022-11-04",
+        "POET|CUNA_ROTA|2022-12-07",
+        "POET|CUNA_ROTA|2025-03-14",
+        "POET|CUNA_ROTA|2025-04-17",
+        "POET|CUNA_ROTA|2026-03-11"
+      ]
+    },
+    "KEYS": {
+      "baseline": "2026-10-21",
+      "seen": [
+        "KEYS|DIV_ALCISTA|2022-03-01",
+        "KEYS|DIV_ALCISTA|2023-11-01",
+        "KEYS|CUNA_ROTA|2022-03-15",
+        "KEYS|CUNA_ROTA|2022-05-26",
+        "KEYS|CUNA_ROTA|2023-04-13",
+        "KEYS|CUNA_ROTA|2023-05-15",
+        "KEYS|CUNA_ROTA|2023-09-25",
+        "KEYS|CUNA_ROTA|2023-11-14",
+        "KEYS|CUNA_ROTA|2026-07-21",
+        "KEYS|CUNA_ROTA|2026-08-04"
+      ]
+    },
+    "HPE": {
+      "baseline": "2026-10-21",
+      "seen": [
+        "HPE|DIV_ALCISTA|2024-09-16",
+        "HPE|DIV_ALCISTA|2025-04-09",
+        "HPE|DIV_ALCISTA|2026-02-27",
+        "HPE|CUNA_ROTA|2022-07-19",
+        "HPE|CUNA_ROTA|2022-10-13",
+        "HPE|CUNA_ROTA|2024-02-29",
+        "HPE|CUNA_ROTA|2024-05-14",
+        "HPE|CUNA_ROTA|2024-09-23",
+        "HPE|CUNA_ROTA|2025-04-02"
+      ]
+    },
+    "MRVL": {
+      "baseline": "2026-10-21",
+      "seen": [
+        "MRVL|CUNA_ROTA|2022-03-15",
+        "MRVL|CUNA_ROTA|2022-03-18",
+        "MRVL|CUNA_ROTA|2022-07-20",
+        "MRVL|CUNA_ROTA|2022-10-04",
+        "MRVL|CUNA_ROTA|2022-11-10",
+        "MRVL|CUNA_ROTA|2023-10-02",
+        "MRVL|CUNA_ROTA|2023-10-10",
+        "MRVL|CUNA_ROTA|2024-05-03",
+        "MRVL|CUNA_ROTA|2024-07-16",
+        "MRVL|CUNA_ROTA|2025-04-09"
+      ]
+    },
+    "BRKR": {
+      "baseline": "2026-10-21",
+      "seen": [
+        "BRKR|DIV_ALCISTA|2024-07-15",
+        "BRKR|CUNA_ROTA|2022-10-18",
+        "BRKR|CUNA_ROTA|2023-07-19",
+        "BRKR|CUNA_ROTA|2023-08-29",
+        "BRKR|CUNA_ROTA|2023-09-14",
+        "BRKR|CUNA_ROTA|2023-11-14",
+        "BRKR|CUNA_ROTA|2024-07-10",
+        "BRKR|CUNA_ROTA|2024-07-26",
+        "BRKR|CUNA_ROTA|2024-08-29",
+        "BRKR|CUNA_ROTA|2024-12-04",
+        "BRKR|CUNA_ROTA|2025-01-03",
+        "BRKR|CUNA_ROTA|2025-09-11",
+        "BRKR|CUNA_ROTA|2025-10-01",
+        "BRKR|CUNA_ROTA|2026-03-23",
+        "BRKR|CUNA_ROTA|2026-04-02",
+        "BRKR|CUNA_ROTA|2026-09-16"
+      ]
+    },
+    "AAOI": {
+      "baseline": "2026-10-21",
+      "seen": [
+        "AAOI|DIV_ALCISTA|2024-08-08",
+        "AAOI|DIV_ALCISTA|2025-04-10",
+        "AAOI|CUNA_ROTA|2022-08-02",
+        "AAOI|CUNA_ROTA|2023-05-24",
+        "AAOI|CUNA_ROTA|2023-05-25",
+        "AAOI|CUNA_ROTA|2023-05-26",
+        "AAOI|CUNA_ROTA|2023-11-02",
+        "AAOI|CUNA_ROTA|2024-05-03",
+        "AAOI|CUNA_ROTA|2024-05-17",
+        "AAOI|CUNA_ROTA|2025-04-24",
+        "AAOI|CUNA_ROTA|2026-08-03"
+      ]
+    },
+    "INTU": {
+      "baseline": "2026-10-21",
+      "seen": [
+        "INTU|DIV_ALCISTA|2022-03-11",
+        "INTU|DIV_ALCISTA|2025-09-18",
+        "INTU|DIV_ALCISTA|2026-02-09",
+        "INTU|DIV_ALCISTA|2026-04-15",
+        "INTU|DIV_ALCISTA|2026-06-01",
+        "INTU|CUNA_ROTA|2022-03-28",
+        "INTU|CUNA_ROTA|2023-03-21",
+        "INTU|CUNA_ROTA|2024-10-29",
+        "INTU|CUNA_ROTA|2024-11-06",
+        "INTU|CUNA_ROTA|2025-02-26",
+        "INTU|CUNA_ROTA|2025-04-24",
+        "INTU|CUNA_ROTA|2025-04-25",
+        "INTU|CUNA_ROTA|2025-09-17",
+        "INTU|CUNA_ROTA|2026-06-23",
+        "INTU|CUNA_ROTA|2026-07-27"
+      ]
+    },
+    "VRTX": {
+      "baseline": "2026-10-21",
+      "seen": [
+        "VRTX|CUNA_ROTA|2024-05-07",
+        "VRTX|CUNA_ROTA|2025-06-30",
+        "VRTX|CUNA_ROTA|2026-04-30",
+        "VRTX|CUNA_ROTA|2026-06-16"
+      ]
+    },
+    "ZS": {
+      "baseline": "2026-10-21",
+      "seen": [
+        "ZS|DIV_ALCISTA|2022-03-02",
+        "ZS|DIV_ALCISTA|2022-05-24",
+        "ZS|DIV_ALCISTA|2026-01-26",
+        "ZS|DIV_ALCISTA|2026-03-04",
+        "ZS|CUNA_ROTA|2022-02-08",
+        "ZS|CUNA_ROTA|2022-03-29",
+        "ZS|CUNA_ROTA|2022-06-23",
+        "ZS|CUNA_ROTA|2023-01-20",
+        "ZS|CUNA_ROTA|2023-01-23",
+        "ZS|CUNA_ROTA|2024-05-02",
+        "ZS|CUNA_ROTA|2025-08-06",
+        "ZS|CUNA_ROTA|2025-08-28",
+        "ZS|CUNA_ROTA|2026-01-22",
+        "ZS|CUNA_ROTA|2026-02-26",
+        "ZS|CUNA_ROTA|2026-03-19",
+        "ZS|CUNA_ROTA|2026-04-22",
+        "ZS|CUNA_ROTA|2026-07-17",
+        "ZS|CUNA_ROTA|2026-07-29"
+      ]
+    },
+    "PLTR": {
+      "baseline": "2026-10-21",
+      "seen": [
+        "PLTR|DIV_ALCISTA|2022-02-25",
+        "PLTR|DIV_ALCISTA|2026-02-19",
+        "PLTR|CUNA_ROTA|2022-03-10",
+        "PLTR|CUNA_ROTA|2022-03-17",
+        "PLTR|CUNA_ROTA|2022-06-22",
+        "PLTR|CUNA_ROTA|2022-09-26",
+        "PLTR|CUNA_ROTA|2022-10-18",
+        "PLTR|CUNA_ROTA|2023-01-10",
+        "PLTR|CUNA_ROTA|2023-03-31",
+        "PLTR|CUNA_ROTA|2023-05-09",
+        "PLTR|CUNA_ROTA|2025-12-19",
+        "PLTR|CUNA_ROTA|2026-03-23",
+        "PLTR|CUNA_ROTA|2026-05-29",
+        "PLTR|CUNA_ROTA|2026-07-20"
+      ]
+    },
+    "CSU.TO": {
+      "baseline": "2026-10-21",
+      "seen": [
+        "CSU.TO|DIV_ALCISTA|2026-02-18",
+        "CSU.TO|CUNA_ROTA|2022-03-17",
+        "CSU.TO|CUNA_ROTA|2022-11-16",
+        "CSU.TO|CUNA_ROTA|2025-12-08",
+        "CSU.TO|CUNA_ROTA|2026-01-08"
+      ]
+    },
+    "MU": {
+      "baseline": "2026-10-21",
+      "seen": [
+        "MU|DIV_ALCISTA|2024-09-13",
+        "MU|CUNA_ROTA|2022-05-04",
+        "MU|CUNA_ROTA|2022-05-17",
+        "MU|CUNA_ROTA|2022-05-31",
+        "MU|CUNA_ROTA|2022-07-07",
+        "MU|CUNA_ROTA|2022-10-13",
+        "MU|CUNA_ROTA|2023-07-17",
+        "MU|CUNA_ROTA|2024-09-23",
+        "MU|CUNA_ROTA|2024-10-16",
+        "MU|CUNA_ROTA|2026-09-04"
+      ]
+    },
+    "LVMUY": {
+      "baseline": "2026-10-21",
+      "seen": [
+        "LVMUY|DIV_ALCISTA|2022-06-22",
+        "LVMUY|DIV_ALCISTA|2025-04-24",
+        "LVMUY|DIV_ALCISTA|2026-04-01",
+        "LVMUY|CUNA_ROTA|2022-03-29",
+        "LVMUY|CUNA_ROTA|2022-05-27",
+        "LVMUY|CUNA_ROTA|2022-06-02",
+        "LVMUY|CUNA_ROTA|2022-07-19",
+        "LVMUY|CUNA_ROTA|2022-10-24",
+        "LVMUY|CUNA_ROTA|2023-10-04",
+        "LVMUY|CUNA_ROTA|2024-07-11",
+        "LVMUY|CUNA_ROTA|2024-07-12",
+        "LVMUY|CUNA_ROTA|2024-11-07",
+        "LVMUY|CUNA_ROTA|2024-11-29",
+        "LVMUY|CUNA_ROTA|2025-01-13",
+        "LVMUY|CUNA_ROTA|2025-05-02",
+        "LVMUY|CUNA_ROTA|2025-05-09",
+        "LVMUY|CUNA_ROTA|2026-04-08"
+      ]
+    },
+    "SAP": {
+      "baseline": "2026-10-21",
+      "seen": [
+        "SAP|DIV_ALCISTA|2022-02-17",
+        "SAP|DIV_ALCISTA|2022-03-11",
+        "SAP|DIV_ALCISTA|2022-05-12",
+        "SAP|CUNA_ROTA|2022-05-23",
+        "SAP|CUNA_ROTA|2022-05-27",
+        "SAP|CUNA_ROTA|2022-10-18",
+        "SAP|CUNA_ROTA|2023-11-01",
+        "SAP|CUNA_ROTA|2025-09-09",
+        "SAP|CUNA_ROTA|2025-12-18",
+        "SAP|CUNA_ROTA|2025-12-23",
+        "SAP|CUNA_ROTA|2026-04-16",
+        "SAP|CUNA_ROTA|2026-05-18",
+        "SAP|CUNA_ROTA|2026-07-16",
+        "SAP|CUNA_ROTA|2026-07-24"
+      ]
+    },
+    "OR.PA": {
+      "baseline": "2026-10-21",
+      "seen": [
+        "OR.PA|DIV_ALCISTA|2024-07-15",
+        "OR.PA|DIV_ALCISTA|2024-10-21",
+        "OR.PA|CUNA_ROTA|2022-02-28",
+        "OR.PA|CUNA_ROTA|2022-03-09",
+        "OR.PA|CUNA_ROTA|2022-05-27",
+        "OR.PA|CUNA_ROTA|2022-06-24",
+        "OR.PA|CUNA_ROTA|2022-10-20",
+        "OR.PA|CUNA_ROTA|2023-09-15",
+        "OR.PA|CUNA_ROTA|2023-11-02",
+        "OR.PA|CUNA_ROTA|2024-08-21",
+        "OR.PA|CUNA_ROTA|2024-09-26",
+        "OR.PA|CUNA_ROTA|2024-12-27",
+        "OR.PA|CUNA_ROTA|2026-04-23"
+      ]
+    },
+    "TTE": {
+      "baseline": "2026-10-21",
+      "seen": [
+        "TTE|CUNA_ROTA|2022-04-18",
+        "TTE|CUNA_ROTA|2022-05-03",
+        "TTE|CUNA_ROTA|2022-08-08",
+        "TTE|CUNA_ROTA|2022-08-23",
+        "TTE|CUNA_ROTA|2024-02-27",
+        "TTE|CUNA_ROTA|2024-03-06",
+        "TTE|CUNA_ROTA|2024-12-31",
+        "TTE|CUNA_ROTA|2025-05-09",
+        "TTE|CUNA_ROTA|2025-05-29",
+        "TTE|CUNA_ROTA|2025-06-02"
+      ]
+    },
+    "ON": {
+      "baseline": "2026-10-21",
+      "seen": [
+        "ON|DIV_ALCISTA|2025-02-14",
+        "ON|CUNA_ROTA|2022-05-02",
+        "ON|CUNA_ROTA|2022-05-17",
+        "ON|CUNA_ROTA|2022-05-26",
+        "ON|CUNA_ROTA|2023-11-24",
+        "ON|CUNA_ROTA|2024-05-13",
+        "ON|CUNA_ROTA|2025-09-05",
+        "ON|CUNA_ROTA|2026-04-06",
+        "ON|CUNA_ROTA|2026-09-03",
+        "ON|CUNA_ROTA|2026-09-11",
+        "ON|CUNA_ROTA|2026-09-23"
+      ]
+    },
+    "MELI": {
+      "baseline": "2026-10-21",
+      "seen": [
+        "MELI|CUNA_ROTA|2022-02-14",
+        "MELI|CUNA_ROTA|2022-03-17",
+        "MELI|CUNA_ROTA|2022-03-18",
+        "MELI|CUNA_ROTA|2022-07-05",
+        "MELI|CUNA_ROTA|2022-07-07",
+        "MELI|CUNA_ROTA|2022-07-15",
+        "MELI|CUNA_ROTA|2022-07-18",
+        "MELI|CUNA_ROTA|2022-10-31",
+        "MELI|CUNA_ROTA|2022-11-01",
+        "MELI|CUNA_ROTA|2023-07-05",
+        "MELI|CUNA_ROTA|2024-04-30",
+        "MELI|CUNA_ROTA|2024-10-21",
+        "MELI|CUNA_ROTA|2025-01-15",
+        "MELI|CUNA_ROTA|2025-09-23",
+        "MELI|CUNA_ROTA|2025-09-24",
+        "MELI|CUNA_ROTA|2025-12-31",
+        "MELI|CUNA_ROTA|2026-06-16"
+      ]
+    },
+    "CTSH": {
+      "baseline": "2026-10-21",
+      "seen": [
+        "CTSH|DIV_ALCISTA|2025-10-06",
+        "CTSH|DIV_ALCISTA|2026-07-06",
+        "CTSH|CUNA_ROTA|2022-06-24",
+        "CTSH|CUNA_ROTA|2022-07-19",
+        "CTSH|CUNA_ROTA|2022-08-10",
+        "CTSH|CUNA_ROTA|2022-10-17",
+        "CTSH|CUNA_ROTA|2022-10-26",
+        "CTSH|CUNA_ROTA|2023-05-04",
+        "CTSH|CUNA_ROTA|2023-11-14",
+        "CTSH|CUNA_ROTA|2024-06-20",
+        "CTSH|CUNA_ROTA|2025-09-05",
+        "CTSH|CUNA_ROTA|2025-10-21",
+        "CTSH|CUNA_ROTA|2025-10-29",
+        "CTSH|CUNA_ROTA|2026-03-19",
+        "CTSH|CUNA_ROTA|2026-05-22",
+        "CTSH|CUNA_ROTA|2026-07-27"
+      ]
+    },
+    "THRY": {
+      "baseline": "2026-10-21",
+      "seen": [
+        "THRY|DIV_ALCISTA|2022-05-05",
+        "THRY|DIV_ALCISTA|2023-09-29",
+        "THRY|DIV_ALCISTA|2023-10-26",
+        "THRY|DIV_ALCISTA|2026-01-23",
+        "THRY|DIV_ALCISTA|2026-09-08",
+        "THRY|CUNA_ROTA|2022-03-10",
+        "THRY|CUNA_ROTA|2022-07-19",
+        "THRY|CUNA_ROTA|2022-07-20",
+        "THRY|CUNA_ROTA|2022-07-29",
+        "THRY|CUNA_ROTA|2023-09-28",
+        "THRY|CUNA_ROTA|2024-05-28",
+        "THRY|CUNA_ROTA|2024-07-25",
+        "THRY|CUNA_ROTA|2024-09-19",
+        "THRY|CUNA_ROTA|2024-10-28",
+        "THRY|CUNA_ROTA|2025-07-08"
+      ]
+    },
+    "QBTS": {
+      "baseline": "2026-10-21",
+      "seen": [
+        "QBTS|DIV_ALCISTA|2022-08-26",
+        "QBTS|DIV_ALCISTA|2023-02-21",
+        "QBTS|DIV_ALCISTA|2023-05-15",
+        "QBTS|CUNA_ROTA|2022-09-27",
+        "QBTS|CUNA_ROTA|2023-01-31",
+        "QBTS|CUNA_ROTA|2023-04-10",
+        "QBTS|CUNA_ROTA|2023-05-15",
+        "QBTS|CUNA_ROTA|2023-09-25",
+        "QBTS|CUNA_ROTA|2023-11-01",
+        "QBTS|CUNA_ROTA|2024-06-17",
+        "QBTS|CUNA_ROTA|2024-07-15",
+        "QBTS|CUNA_ROTA|2025-12-03",
+        "QBTS|CUNA_ROTA|2025-12-19",
+        "QBTS|CUNA_ROTA|2026-01-06",
+        "QBTS|CUNA_ROTA|2026-03-25",
+        "QBTS|CUNA_ROTA|2026-04-14",
+        "QBTS|CUNA_ROTA|2026-08-03",
+        "QBTS|CUNA_ROTA|2026-09-17",
+        "QBTS|CUNA_ROTA|2026-09-21"
+      ]
+    },
+    "RGTI": {
+      "baseline": "2026-10-21",
+      "seen": [
+        "RGTI|DIV_ALCISTA|2022-03-21",
+        "RGTI|DIV_ALCISTA|2022-10-19",
+        "RGTI|CUNA_ROTA|2022-04-07",
+        "RGTI|CUNA_ROTA|2022-07-27",
+        "RGTI|CUNA_ROTA|2022-07-28",
+        "RGTI|CUNA_ROTA|2022-12-15",
+        "RGTI|CUNA_ROTA|2023-01-11",
+        "RGTI|CUNA_ROTA|2023-02-03",
+        "RGTI|CUNA_ROTA|2023-05-26",
+        "RGTI|CUNA_ROTA|2023-11-14",
+        "RGTI|CUNA_ROTA|2023-11-30",
+        "RGTI|CUNA_ROTA|2024-01-04",
+        "RGTI|CUNA_ROTA|2024-08-21",
+        "RGTI|CUNA_ROTA|2024-09-13",
+        "RGTI|CUNA_ROTA|2024-09-26",
+        "RGTI|CUNA_ROTA|2024-10-04",
+        "RGTI|CUNA_ROTA|2024-10-11",
+        "RGTI|CUNA_ROTA|2025-12-03",
+        "RGTI|CUNA_ROTA|2026-02-26",
+        "RGTI|CUNA_ROTA|2026-03-23",
+        "RGTI|CUNA_ROTA|2026-04-13",
+        "RGTI|CUNA_ROTA|2026-08-03",
+        "RGTI|CUNA_ROTA|2026-09-21"
+      ]
+    },
+    "IONQ": {
+      "baseline": "2026-10-21",
+      "seen": [
+        "IONQ|DIV_ALCISTA|2022-07-06",
+        "IONQ|DIV_ALCISTA|2024-08-08",
+        "IONQ|DIV_ALCISTA|2026-02-26",
+        "IONQ|DIV_ALCISTA|2026-08-03",
+        "IONQ|CUNA_ROTA|2022-07-20",
+        "IONQ|CUNA_ROTA|2022-10-25",
+        "IONQ|CUNA_ROTA|2023-11-14",
+        "IONQ|CUNA_ROTA|2023-11-29",
+        "IONQ|CUNA_ROTA|2023-12-14",
+        "IONQ|CUNA_ROTA|2024-02-08",
+        "IONQ|CUNA_ROTA|2024-02-27",
+        "IONQ|CUNA_ROTA|2024-07-10",
+        "IONQ|CUNA_ROTA|2024-09-12",
+        "IONQ|CUNA_ROTA|2025-04-02",
+        "IONQ|CUNA_ROTA|2025-04-09",
+        "IONQ|CUNA_ROTA|2025-04-24",
+        "IONQ|CUNA_ROTA|2025-12-22",
+        "IONQ|CUNA_ROTA|2026-02-26",
+        "IONQ|CUNA_ROTA|2026-04-14",
+        "IONQ|CUNA_ROTA|2026-09-08",
+        "IONQ|CUNA_ROTA|2026-09-23"
+      ]
+    },
+    "MC.PA": {
+      "baseline": "2026-10-21",
+      "seen": [
+        "MC.PA|DIV_ALCISTA|2023-10-03",
+        "MC.PA|DIV_ALCISTA|2024-09-26",
+        "MC.PA|DIV_ALCISTA|2025-04-23",
+        "MC.PA|DIV_ALCISTA|2025-06-11",
+        "MC.PA|DIV_ALCISTA|2026-02-09",
+        "MC.PA|DIV_ALCISTA|2026-03-12",
+        "MC.PA|DIV_ALCISTA|2026-04-01",
+        "MC.PA|CUNA_ROTA|2022-07-07",
+        "MC.PA|CUNA_ROTA|2022-10-25",
+        "MC.PA|CUNA_ROTA|2024-05-07",
+        "MC.PA|CUNA_ROTA|2024-11-26",
+        "MC.PA|CUNA_ROTA|2025-06-24",
+        "MC.PA|CUNA_ROTA|2026-04-08"
+      ]
+    },
+    "SIE.DE": {
+      "baseline": "2026-10-21",
+      "seen": [
+        "SIE.DE|DIV_ALCISTA|2022-07-11",
+        "SIE.DE|DIV_ALCISTA|2023-09-29",
+        "SIE.DE|CUNA_ROTA|2022-02-10",
+        "SIE.DE|CUNA_ROTA|2022-05-23",
+        "SIE.DE|CUNA_ROTA|2023-09-08",
+        "SIE.DE|CUNA_ROTA|2023-10-06",
+        "SIE.DE|CUNA_ROTA|2023-10-10",
+        "SIE.DE|CUNA_ROTA|2025-12-30",
+        "SIE.DE|CUNA_ROTA|2026-04-01"
+      ]
+    },
+    "ENGI.PA": {
+      "baseline": "2026-10-21",
+      "seen": [
+        "ENGI.PA|DIV_ALCISTA|2026-09-18",
+        "ENGI.PA|CUNA_ROTA|2023-02-01",
+        "ENGI.PA|CUNA_ROTA|2024-03-05",
+        "ENGI.PA|CUNA_ROTA|2024-07-23",
+        "ENGI.PA|CUNA_ROTA|2024-12-13",
+        "ENGI.PA|CUNA_ROTA|2026-10-06"
+      ]
+    },
+    "AIR.PA": {
+      "baseline": "2026-10-21",
+      "seen": [
+        "AIR.PA|DIV_ALCISTA|2022-09-21",
+        "AIR.PA|DIV_ALCISTA|2026-04-02",
+        "AIR.PA|DIV_ALCISTA|2026-10-13",
+        "AIR.PA|CUNA_ROTA|2022-03-28",
+        "AIR.PA|CUNA_ROTA|2022-10-13",
+        "AIR.PA|CUNA_ROTA|2023-10-11",
+        "AIR.PA|CUNA_ROTA|2023-10-26",
+        "AIR.PA|CUNA_ROTA|2024-07-15",
+        "AIR.PA|CUNA_ROTA|2024-10-11",
+        "AIR.PA|CUNA_ROTA|2026-05-04"
+      ]
+    },
+    "ALV.DE": {
+      "baseline": "2026-10-21",
+      "seen": [
+        "ALV.DE|CUNA_ROTA|2022-03-29",
+        "ALV.DE|CUNA_ROTA|2025-07-07",
+        "ALV.DE|CUNA_ROTA|2026-03-30"
+      ]
+    },
+    "EL.PA": {
+      "baseline": "2026-10-21",
+      "seen": [
+        "EL.PA|DIV_ALCISTA|2023-10-09",
+        "EL.PA|DIV_ALCISTA|2026-02-02",
+        "EL.PA|DIV_ALCISTA|2026-02-16",
+        "EL.PA|DIV_ALCISTA|2026-04-09",
+        "EL.PA|DIV_ALCISTA|2026-05-08",
+        "EL.PA|CUNA_ROTA|2022-07-08",
+        "EL.PA|CUNA_ROTA|2023-03-30",
+        "EL.PA|CUNA_ROTA|2023-06-28",
+        "EL.PA|CUNA_ROTA|2023-10-24",
+        "EL.PA|CUNA_ROTA|2025-07-25",
+        "EL.PA|CUNA_ROTA|2026-06-09",
+        "EL.PA|CUNA_ROTA|2026-10-12"
+      ]
+    },
+    "AI.PA": {
+      "baseline": "2026-10-21",
+      "seen": [
+        "AI.PA|DIV_ALCISTA|2022-07-11",
+        "AI.PA|CUNA_ROTA|2022-03-16",
+        "AI.PA|CUNA_ROTA|2022-07-08",
+        "AI.PA|CUNA_ROTA|2022-10-04",
+        "AI.PA|CUNA_ROTA|2022-10-19",
+        "AI.PA|CUNA_ROTA|2024-02-20",
+        "AI.PA|CUNA_ROTA|2024-07-22",
+        "AI.PA|CUNA_ROTA|2025-01-07",
+        "AI.PA|CUNA_ROTA|2025-01-17",
+        "AI.PA|CUNA_ROTA|2025-08-12",
+        "AI.PA|CUNA_ROTA|2025-08-14",
+        "AI.PA|CUNA_ROTA|2025-10-28",
+        "AI.PA|CUNA_ROTA|2026-01-14",
+        "AI.PA|CUNA_ROTA|2026-02-03"
+      ]
+    },
+    "BNP.PA": {
+      "baseline": "2026-10-21",
+      "seen": [
+        "BNP.PA|DIV_ALCISTA|2022-10-17",
+        "BNP.PA|DIV_ALCISTA|2024-08-08",
+        "BNP.PA|CUNA_ROTA|2022-03-29",
+        "BNP.PA|CUNA_ROTA|2022-04-20",
+        "BNP.PA|CUNA_ROTA|2022-05-06",
+        "BNP.PA|CUNA_ROTA|2022-07-29",
+        "BNP.PA|CUNA_ROTA|2023-05-12",
+        "BNP.PA|CUNA_ROTA|2023-11-17",
+        "BNP.PA|CUNA_ROTA|2024-07-18",
+        "BNP.PA|CUNA_ROTA|2024-08-27",
+        "BNP.PA|CUNA_ROTA|2024-12-30",
+        "BNP.PA|CUNA_ROTA|2025-09-26",
+        "BNP.PA|CUNA_ROTA|2026-04-17"
+      ]
+    },
+    "SAN.PA": {
+      "baseline": "2026-10-21",
+      "seen": [
+        "SAN.PA|DIV_ALCISTA|2025-06-24",
+        "SAN.PA|CUNA_ROTA|2022-07-19",
+        "SAN.PA|CUNA_ROTA|2022-09-08",
+        "SAN.PA|CUNA_ROTA|2022-09-28",
+        "SAN.PA|CUNA_ROTA|2023-02-21",
+        "SAN.PA|CUNA_ROTA|2024-12-03",
+        "SAN.PA|CUNA_ROTA|2025-05-19",
+        "SAN.PA|CUNA_ROTA|2025-07-23",
+        "SAN.PA|CUNA_ROTA|2025-10-01",
+        "SAN.PA|CUNA_ROTA|2026-03-27"
+      ]
+    },
+    "KER.PA": {
+      "baseline": "2026-10-21",
+      "seen": [
+        "KER.PA|DIV_ALCISTA|2022-04-20",
+        "KER.PA|DIV_ALCISTA|2022-10-18",
+        "KER.PA|DIV_ALCISTA|2024-01-10",
+        "KER.PA|DIV_ALCISTA|2024-04-29",
+        "KER.PA|DIV_ALCISTA|2024-06-20",
+        "KER.PA|DIV_ALCISTA|2024-09-26",
+        "KER.PA|DIV_ALCISTA|2024-11-18",
+        "KER.PA|DIV_ALCISTA|2026-05-08",
+        "KER.PA|CUNA_ROTA|2022-05-26",
+        "KER.PA|CUNA_ROTA|2022-05-27",
+        "KER.PA|CUNA_ROTA|2023-07-19",
+        "KER.PA|CUNA_ROTA|2023-11-14",
+        "KER.PA|CUNA_ROTA|2024-02-06",
+        "KER.PA|CUNA_ROTA|2024-05-03",
+        "KER.PA|CUNA_ROTA|2024-06-05",
+        "KER.PA|CUNA_ROTA|2024-09-19",
+        "KER.PA|CUNA_ROTA|2024-12-02",
+        "KER.PA|CUNA_ROTA|2024-12-06",
+        "KER.PA|CUNA_ROTA|2026-01-06",
+        "KER.PA|CUNA_ROTA|2026-02-26",
+        "KER.PA|CUNA_ROTA|2026-05-20",
+        "KER.PA|CUNA_ROTA|2026-06-11",
+        "KER.PA|CUNA_ROTA|2026-07-29"
+      ]
+    },
+    "SU.PA": {
+      "baseline": "2026-10-21",
+      "seen": [
+        "SU.PA|DIV_ALCISTA|2022-03-10",
+        "SU.PA|DIV_ALCISTA|2022-06-27",
+        "SU.PA|CUNA_ROTA|2022-02-10",
+        "SU.PA|CUNA_ROTA|2022-03-09",
+        "SU.PA|CUNA_ROTA|2022-05-27",
+        "SU.PA|CUNA_ROTA|2022-07-08",
+        "SU.PA|CUNA_ROTA|2022-07-15",
+        "SU.PA|CUNA_ROTA|2023-04-25",
+        "SU.PA|CUNA_ROTA|2025-09-26"
+      ]
+    },
+    "NESN.SW": {
+      "baseline": "2026-10-21",
+      "seen": [
+        "NESN.SW|DIV_ALCISTA|2024-12-30",
+        "NESN.SW|CUNA_ROTA|2022-10-18",
+        "NESN.SW|CUNA_ROTA|2022-10-26",
+        "NESN.SW|CUNA_ROTA|2022-11-10",
+        "NESN.SW|CUNA_ROTA|2023-03-29",
+        "NESN.SW|CUNA_ROTA|2023-07-26",
+        "NESN.SW|CUNA_ROTA|2023-08-25",
+        "NESN.SW|CUNA_ROTA|2023-11-14",
+        "NESN.SW|CUNA_ROTA|2023-11-23",
+        "NESN.SW|CUNA_ROTA|2024-01-03",
+        "NESN.SW|CUNA_ROTA|2024-03-27",
+        "NESN.SW|CUNA_ROTA|2024-08-27",
+        "NESN.SW|CUNA_ROTA|2024-10-11",
+        "NESN.SW|CUNA_ROTA|2024-12-13",
+        "NESN.SW|CUNA_ROTA|2025-01-21",
+        "NESN.SW|CUNA_ROTA|2025-08-29",
+        "NESN.SW|CUNA_ROTA|2026-10-14"
+      ]
+    },
+    "LIN.DE": {
+      "baseline": "2026-10-21",
+      "seen": [
+        "LIN.DE|DIV_ALCISTA|2025-01-10",
+        "LIN.DE|CUNA_ROTA|2022-03-09",
+        "LIN.DE|CUNA_ROTA|2022-10-18",
+        "LIN.DE|CUNA_ROTA|2024-11-21",
+        "LIN.DE|CUNA_ROTA|2025-07-28",
+        "LIN.DE|CUNA_ROTA|2025-12-12",
+        "LIN.DE|CUNA_ROTA|2026-09-23"
+      ]
+    },
+    "VOW3.DE": {
+      "baseline": "2026-10-21",
+      "seen": [
+        "VOW3.DE|DIV_ALCISTA|2023-09-13",
+        "VOW3.DE|DIV_ALCISTA|2023-10-12",
+        "VOW3.DE|DIV_ALCISTA|2024-08-19",
+        "VOW3.DE|DIV_ALCISTA|2024-09-16",
+        "VOW3.DE|DIV_ALCISTA|2024-11-18",
+        "VOW3.DE|DIV_ALCISTA|2024-12-04",
+        "VOW3.DE|DIV_ALCISTA|2025-10-02",
+        "VOW3.DE|DIV_ALCISTA|2026-03-26",
+        "VOW3.DE|CUNA_ROTA|2022-04-13",
+        "VOW3.DE|CUNA_ROTA|2022-08-02",
+        "VOW3.DE|CUNA_ROTA|2022-08-15",
+        "VOW3.DE|CUNA_ROTA|2022-10-18",
+        "VOW3.DE|CUNA_ROTA|2023-05-04",
+        "VOW3.DE|CUNA_ROTA|2023-09-22",
+        "VOW3.DE|CUNA_ROTA|2024-07-03",
+        "VOW3.DE|CUNA_ROTA|2025-05-08",
+        "VOW3.DE|CUNA_ROTA|2026-04-17",
+        "VOW3.DE|CUNA_ROTA|2026-07-21",
+        "VOW3.DE|CUNA_ROTA|2026-07-28"
+      ]
+    },
+    "BMW.DE": {
+      "baseline": "2026-10-21",
+      "seen": [
+        "BMW.DE|DIV_ALCISTA|2024-11-18",
+        "BMW.DE|DIV_ALCISTA|2026-03-26",
+        "BMW.DE|DIV_ALCISTA|2026-07-29",
+        "BMW.DE|CUNA_ROTA|2022-04-19",
+        "BMW.DE|CUNA_ROTA|2022-05-03",
+        "BMW.DE|CUNA_ROTA|2023-10-10",
+        "BMW.DE|CUNA_ROTA|2023-11-14",
+        "BMW.DE|CUNA_ROTA|2024-06-10",
+        "BMW.DE|CUNA_ROTA|2024-07-09",
+        "BMW.DE|CUNA_ROTA|2024-07-10",
+        "BMW.DE|CUNA_ROTA|2024-12-04",
+        "BMW.DE|CUNA_ROTA|2025-05-08",
+        "BMW.DE|CUNA_ROTA|2026-07-17",
+        "BMW.DE|CUNA_ROTA|2026-07-27"
+      ]
+    },
+    "ADS.DE": {
+      "baseline": "2026-10-21",
+      "seen": [
+        "ADS.DE|DIV_ALCISTA|2022-10-18",
+        "ADS.DE|DIV_ALCISTA|2025-09-05",
+        "ADS.DE|DIV_ALCISTA|2026-02-03",
+        "ADS.DE|CUNA_ROTA|2022-07-18",
+        "ADS.DE|CUNA_ROTA|2022-07-22",
+        "ADS.DE|CUNA_ROTA|2024-02-19",
+        "ADS.DE|CUNA_ROTA|2024-07-11",
+        "ADS.DE|CUNA_ROTA|2024-11-07",
+        "ADS.DE|CUNA_ROTA|2024-11-26",
+        "ADS.DE|CUNA_ROTA|2025-04-01",
+        "ADS.DE|CUNA_ROTA|2025-09-03",
+        "ADS.DE|CUNA_ROTA|2025-09-18",
+        "ADS.DE|CUNA_ROTA|2025-11-25",
+        "ADS.DE|CUNA_ROTA|2026-02-18",
+        "ADS.DE|CUNA_ROTA|2026-02-20",
+        "ADS.DE|CUNA_ROTA|2026-04-15",
+        "ADS.DE|CUNA_ROTA|2026-04-29"
+      ]
+    },
+    "IFX.DE": {
+      "baseline": "2026-10-21",
+      "seen": [
+        "IFX.DE|DIV_ALCISTA|2022-05-13",
+        "IFX.DE|DIV_ALCISTA|2024-02-12",
+        "IFX.DE|DIV_ALCISTA|2026-08-27",
+        "IFX.DE|CUNA_ROTA|2022-05-27",
+        "IFX.DE|CUNA_ROTA|2022-10-24",
+        "IFX.DE|CUNA_ROTA|2023-09-13",
+        "IFX.DE|CUNA_ROTA|2023-10-02",
+        "IFX.DE|CUNA_ROTA|2024-02-27",
+        "IFX.DE|CUNA_ROTA|2024-05-07",
+        "IFX.DE|CUNA_ROTA|2024-09-27",
+        "IFX.DE|CUNA_ROTA|2024-11-29",
+        "IFX.DE|CUNA_ROTA|2025-10-02",
+        "IFX.DE|CUNA_ROTA|2026-09-04"
+      ]
+    },
+    "MUV2.DE": {
+      "baseline": "2026-10-21",
+      "seen": [
+        "MUV2.DE|CUNA_ROTA|2022-03-28",
+        "MUV2.DE|CUNA_ROTA|2022-06-28",
+        "MUV2.DE|CUNA_ROTA|2022-08-03",
+        "MUV2.DE|CUNA_ROTA|2025-09-25",
+        "MUV2.DE|CUNA_ROTA|2025-12-10"
+      ]
+    },
+    "FRE.DE": {
+      "baseline": "2026-10-21",
+      "seen": [
+        "FRE.DE|DIV_ALCISTA|2022-10-18",
+        "FRE.DE|DIV_ALCISTA|2026-05-11",
+        "FRE.DE|CUNA_ROTA|2022-04-08",
+        "FRE.DE|CUNA_ROTA|2022-10-18",
+        "FRE.DE|CUNA_ROTA|2022-11-09",
+        "FRE.DE|CUNA_ROTA|2023-04-24",
+        "FRE.DE|CUNA_ROTA|2023-05-09",
+        "FRE.DE|CUNA_ROTA|2023-11-01",
+        "FRE.DE|CUNA_ROTA|2024-02-15",
+        "FRE.DE|CUNA_ROTA|2024-04-16",
+        "FRE.DE|CUNA_ROTA|2025-01-09",
+        "FRE.DE|CUNA_ROTA|2026-06-09",
+        "FRE.DE|CUNA_ROTA|2026-06-10",
+        "FRE.DE|CUNA_ROTA|2026-10-21"
+      ]
+    },
+    "DTE.DE": {
+      "baseline": "2026-10-21",
+      "seen": [
+        "DTE.DE|DIV_ALCISTA|2023-08-11",
+        "DTE.DE|DIV_ALCISTA|2026-06-25",
+        "DTE.DE|CUNA_ROTA|2022-03-28",
+        "DTE.DE|CUNA_ROTA|2022-10-17",
+        "DTE.DE|CUNA_ROTA|2023-07-13",
+        "DTE.DE|CUNA_ROTA|2023-07-27",
+        "DTE.DE|CUNA_ROTA|2023-08-23",
+        "DTE.DE|CUNA_ROTA|2024-03-26",
+        "DTE.DE|CUNA_ROTA|2024-04-26",
+        "DTE.DE|CUNA_ROTA|2025-05-15",
+        "DTE.DE|CUNA_ROTA|2025-07-02",
+        "DTE.DE|CUNA_ROTA|2025-07-24",
+        "DTE.DE|CUNA_ROTA|2025-08-20",
+        "DTE.DE|CUNA_ROTA|2025-10-20",
+        "DTE.DE|CUNA_ROTA|2025-11-21",
+        "DTE.DE|CUNA_ROTA|2025-12-18"
+      ]
+    },
+    "RWE.DE": {
+      "baseline": "2026-10-21",
+      "seen": [
+        "RWE.DE|CUNA_ROTA|2022-07-27",
+        "RWE.DE|CUNA_ROTA|2022-11-01",
+        "RWE.DE|CUNA_ROTA|2022-11-10",
+        "RWE.DE|CUNA_ROTA|2023-07-26",
+        "RWE.DE|CUNA_ROTA|2023-08-24",
+        "RWE.DE|CUNA_ROTA|2023-10-24",
+        "RWE.DE|CUNA_ROTA|2024-08-22",
+        "RWE.DE|CUNA_ROTA|2025-01-30",
+        "RWE.DE|CUNA_ROTA|2025-02-24",
+        "RWE.DE|CUNA_ROTA|2025-03-07",
+        "RWE.DE|CUNA_ROTA|2025-09-08"
+      ]
+    },
+    "ITX.MC": {
+      "baseline": "2026-10-21",
+      "seen": [
+        "ITX.MC|CUNA_ROTA|2022-04-11",
+        "ITX.MC|CUNA_ROTA|2022-10-04",
+        "ITX.MC|CUNA_ROTA|2025-01-28",
+        "ITX.MC|CUNA_ROTA|2025-04-02",
+        "ITX.MC|CUNA_ROTA|2025-04-22",
+        "ITX.MC|CUNA_ROTA|2025-05-13",
+        "ITX.MC|CUNA_ROTA|2025-08-08",
+        "ITX.MC|CUNA_ROTA|2025-09-10",
+        "ITX.MC|CUNA_ROTA|2026-04-08",
+        "ITX.MC|CUNA_ROTA|2026-05-28"
+      ]
+    },
+    "BBVA.MC": {
+      "baseline": "2026-10-21",
+      "seen": [
+        "BBVA.MC|CUNA_ROTA|2022-03-29",
+        "BBVA.MC|CUNA_ROTA|2022-04-21",
+        "BBVA.MC|CUNA_ROTA|2022-07-29",
+        "BBVA.MC|CUNA_ROTA|2023-03-30",
+        "BBVA.MC|CUNA_ROTA|2024-06-28",
+        "BBVA.MC|CUNA_ROTA|2025-04-28",
+        "BBVA.MC|CUNA_ROTA|2026-04-01"
+      ]
+    },
+    "SAN.MC": {
+      "baseline": "2026-10-21",
+      "seen": [
+        "SAN.MC|DIV_ALCISTA|2021-12-20",
+        "SAN.MC|CUNA_ROTA|2022-08-04",
+        "SAN.MC|CUNA_ROTA|2023-09-28",
+        "SAN.MC|CUNA_ROTA|2026-04-01"
+      ]
+    },
+    "TEF.MC": {
+      "baseline": "2026-10-21",
+      "seen": [
+        "TEF.MC|DIV_ALCISTA|2022-10-18",
+        "TEF.MC|DIV_ALCISTA|2025-01-02",
+        "TEF.MC|DIV_ALCISTA|2025-10-09",
+        "TEF.MC|DIV_ALCISTA|2025-12-29",
+        "TEF.MC|DIV_ALCISTA|2026-10-15",
+        "TEF.MC|CUNA_ROTA|2022-10-28",
+        "TEF.MC|CUNA_ROTA|2023-07-03",
+        "TEF.MC|CUNA_ROTA|2023-11-22",
+        "TEF.MC|CUNA_ROTA|2026-10-16"
+      ]
+    },
+    "IBE.MC": {
+      "baseline": "2026-10-21",
+      "seen": [
+        "IBE.MC|DIV_ALCISTA|2022-02-25",
+        "IBE.MC|DIV_ALCISTA|2024-03-04",
+        "IBE.MC|CUNA_ROTA|2022-11-10",
+        "IBE.MC|CUNA_ROTA|2023-08-23",
+        "IBE.MC|CUNA_ROTA|2023-10-31",
+        "IBE.MC|CUNA_ROTA|2024-03-07",
+        "IBE.MC|CUNA_ROTA|2024-12-31",
+        "IBE.MC|CUNA_ROTA|2025-01-02"
+      ]
+    },
+    "REP.MC": {
+      "baseline": "2026-10-21",
+      "seen": [
+        "REP.MC|CUNA_ROTA|2022-07-25",
+        "REP.MC|CUNA_ROTA|2022-08-09",
+        "REP.MC|CUNA_ROTA|2024-01-25",
+        "REP.MC|CUNA_ROTA|2024-01-26",
+        "REP.MC|CUNA_ROTA|2024-07-02",
+        "REP.MC|CUNA_ROTA|2024-08-26",
+        "REP.MC|CUNA_ROTA|2024-09-24",
+        "REP.MC|CUNA_ROTA|2024-10-01",
+        "REP.MC|CUNA_ROTA|2024-12-30",
+        "REP.MC|CUNA_ROTA|2025-01-02"
+      ]
+    },
+    "FER.MC": {
+      "baseline": "2026-10-21",
+      "seen": [
+        "FER.MC|DIV_ALCISTA|2022-02-11",
+        "FER.MC|DIV_ALCISTA|2023-10-31",
+        "FER.MC|DIV_ALCISTA|2026-10-13",
+        "FER.MC|CUNA_ROTA|2022-02-16",
+        "FER.MC|CUNA_ROTA|2022-03-14",
+        "FER.MC|CUNA_ROTA|2022-05-26",
+        "FER.MC|CUNA_ROTA|2022-10-14",
+        "FER.MC|CUNA_ROTA|2023-11-13",
+        "FER.MC|CUNA_ROTA|2024-05-03",
+        "FER.MC|CUNA_ROTA|2026-03-30",
+        "FER.MC|CUNA_ROTA|2026-10-21"
+      ]
+    },
+    "ACX.MC": {
+      "baseline": "2026-10-21",
+      "seen": [
+        "ACX.MC|CUNA_ROTA|2022-04-21",
+        "ACX.MC|CUNA_ROTA|2022-05-11",
+        "ACX.MC|CUNA_ROTA|2022-10-20",
+        "ACX.MC|CUNA_ROTA|2022-10-21",
+        "ACX.MC|CUNA_ROTA|2023-04-13",
+        "ACX.MC|CUNA_ROTA|2023-09-29",
+        "ACX.MC|CUNA_ROTA|2023-10-31",
+        "ACX.MC|CUNA_ROTA|2024-07-31",
+        "ACX.MC|CUNA_ROTA|2024-11-22",
+        "ACX.MC|CUNA_ROTA|2026-04-08"
+      ]
+    },
+    "ACS.MC": {
+      "baseline": "2026-10-21",
+      "seen": [
+        "ACS.MC|DIV_ALCISTA|2026-09-08",
+        "ACS.MC|CUNA_ROTA|2022-08-09",
+        "ACS.MC|CUNA_ROTA|2025-04-23"
+      ]
+    },
+    "AENA.MC": {
+      "baseline": "2026-10-21",
+      "seen": [
+        "AENA.MC|DIV_ALCISTA|2022-07-15",
+        "AENA.MC|DIV_ALCISTA|2025-11-13",
+        "AENA.MC|CUNA_ROTA|2022-03-30",
+        "AENA.MC|CUNA_ROTA|2022-08-05",
+        "AENA.MC|CUNA_ROTA|2023-08-09",
+        "AENA.MC|CUNA_ROTA|2025-11-24",
+        "AENA.MC|CUNA_ROTA|2025-12-12",
+        "AENA.MC|CUNA_ROTA|2026-05-25",
+        "AENA.MC|CUNA_ROTA|2026-05-29",
+        "AENA.MC|CUNA_ROTA|2026-06-11",
+        "AENA.MC|CUNA_ROTA|2026-10-15"
+      ]
+    },
+    "ANA.MC": {
+      "baseline": "2026-10-21",
+      "seen": [
+        "ANA.MC|DIV_ALCISTA|2023-08-11",
+        "ANA.MC|DIV_ALCISTA|2023-09-29",
+        "ANA.MC|CUNA_ROTA|2022-11-10",
+        "ANA.MC|CUNA_ROTA|2023-08-29",
+        "ANA.MC|CUNA_ROTA|2023-09-14",
+        "ANA.MC|CUNA_ROTA|2024-05-03",
+        "ANA.MC|CUNA_ROTA|2025-02-05",
+        "ANA.MC|CUNA_ROTA|2025-02-13",
+        "ANA.MC|CUNA_ROTA|2025-02-24",
+        "ANA.MC|CUNA_ROTA|2026-01-02"
+      ]
+    },
+    "IAG.MC": {
+      "baseline": "2026-10-21",
+      "seen": [
+        "IAG.MC|CUNA_ROTA|2022-03-29",
+        "IAG.MC|CUNA_ROTA|2022-04-14",
+        "IAG.MC|CUNA_ROTA|2022-07-15",
+        "IAG.MC|CUNA_ROTA|2024-07-03",
+        "IAG.MC|CUNA_ROTA|2025-04-23",
+        "IAG.MC|CUNA_ROTA|2025-12-11",
+        "IAG.MC|CUNA_ROTA|2026-09-22"
+      ]
+    },
+    "LOG.MC": {
+      "baseline": "2026-10-21",
+      "seen": [
+        "LOG.MC|DIV_ALCISTA|2021-12-23",
+        "LOG.MC|CUNA_ROTA|2023-03-30",
+        "LOG.MC|CUNA_ROTA|2023-04-18",
+        "LOG.MC|CUNA_ROTA|2023-11-14"
+      ]
+    },
+    "MAP.MC": {
+      "baseline": "2026-10-21",
+      "seen": [
+        "MAP.MC|CUNA_ROTA|2022-08-09",
+        "MAP.MC|CUNA_ROTA|2022-10-18",
+        "MAP.MC|CUNA_ROTA|2023-05-18",
+        "MAP.MC|CUNA_ROTA|2024-07-22",
+        "MAP.MC|CUNA_ROTA|2026-02-20",
+        "MAP.MC|CUNA_ROTA|2026-04-01"
+      ]
+    },
+    "PUIG.MC": {
+      "baseline": "2026-10-21",
+      "seen": [
+        "PUIG.MC|CUNA_ROTA|2024-08-30",
+        "PUIG.MC|CUNA_ROTA|2025-01-16",
+        "PUIG.MC|CUNA_ROTA|2025-01-17",
+        "PUIG.MC|CUNA_ROTA|2025-04-23",
+        "PUIG.MC|CUNA_ROTA|2025-08-22",
+        "PUIG.MC|CUNA_ROTA|2025-08-28",
+        "PUIG.MC|CUNA_ROTA|2025-10-20"
+      ]
+    },
+    "NTGY.MC": {
+      "baseline": "2026-10-21",
+      "seen": [
+        "NTGY.MC|DIV_ALCISTA|2023-07-14",
+        "NTGY.MC|CUNA_ROTA|2022-11-10",
+        "NTGY.MC|CUNA_ROTA|2023-01-25",
+        "NTGY.MC|CUNA_ROTA|2023-10-30",
+        "NTGY.MC|CUNA_ROTA|2026-01-14"
+      ]
+    },
+    "ELE.MC": {
+      "baseline": "2026-10-21",
+      "seen": [
+        "ELE.MC|DIV_ALCISTA|2024-03-07",
+        "ELE.MC|CUNA_ROTA|2022-03-29",
+        "ELE.MC|CUNA_ROTA|2022-03-30",
+        "ELE.MC|CUNA_ROTA|2022-07-26",
+        "ELE.MC|CUNA_ROTA|2022-08-09",
+        "ELE.MC|CUNA_ROTA|2023-08-25",
+        "ELE.MC|CUNA_ROTA|2023-09-14",
+        "ELE.MC|CUNA_ROTA|2023-11-09",
+        "ELE.MC|CUNA_ROTA|2024-03-06",
+        "ELE.MC|CUNA_ROTA|2024-03-22",
+        "ELE.MC|CUNA_ROTA|2024-08-02",
+        "ELE.MC|CUNA_ROTA|2026-06-05"
+      ]
+    },
+    "IDR.MC": {
+      "baseline": "2026-10-21",
+      "seen": [
+        "IDR.MC|DIV_ALCISTA|2022-01-28",
+        "IDR.MC|CUNA_ROTA|2022-02-11",
+        "IDR.MC|CUNA_ROTA|2022-04-29",
+        "IDR.MC|CUNA_ROTA|2022-09-09",
+        "IDR.MC|CUNA_ROTA|2022-10-14",
+        "IDR.MC|CUNA_ROTA|2023-11-10",
+        "IDR.MC|CUNA_ROTA|2024-09-10",
+        "IDR.MC|CUNA_ROTA|2024-09-27",
+        "IDR.MC|CUNA_ROTA|2024-12-03",
+        "IDR.MC|CUNA_ROTA|2026-05-20",
+        "IDR.MC|CUNA_ROTA|2026-05-22",
+        "IDR.MC|CUNA_ROTA|2026-07-23"
+      ]
+    },
+    "PDD": {
+      "baseline": "2026-10-21",
+      "seen": [
+        "PDD|DIV_ALCISTA|2022-01-10",
+        "PDD|DIV_ALCISTA|2025-01-03",
+        "PDD|DIV_ALCISTA|2026-01-23",
+        "PDD|DIV_ALCISTA|2026-02-19",
+        "PDD|CUNA_ROTA|2022-08-23",
+        "PDD|CUNA_ROTA|2023-05-11",
+        "PDD|CUNA_ROTA|2023-05-26",
+        "PDD|CUNA_ROTA|2025-01-17",
+        "PDD|CUNA_ROTA|2026-02-20",
+        "PDD|CUNA_ROTA|2026-03-10",
+        "PDD|CUNA_ROTA|2026-03-31",
+        "PDD|CUNA_ROTA|2026-04-08",
+        "PDD|CUNA_ROTA|2026-04-17",
+        "PDD|CUNA_ROTA|2026-10-05"
+      ]
+    },
+    "NIO": {
+      "baseline": "2026-10-21",
+      "seen": [
+        "NIO|DIV_ALCISTA|2022-03-01",
+        "NIO|DIV_ALCISTA|2024-03-08",
+        "NIO|DIV_ALCISTA|2026-01-23",
+        "NIO|CUNA_ROTA|2022-05-31",
+        "NIO|CUNA_ROTA|2022-06-21",
+        "NIO|CUNA_ROTA|2022-11-15",
+        "NIO|CUNA_ROTA|2023-03-20",
+        "NIO|CUNA_ROTA|2023-05-19",
+        "NIO|CUNA_ROTA|2023-06-12",
+        "NIO|CUNA_ROTA|2023-06-13",
+        "NIO|CUNA_ROTA|2023-06-14",
+        "NIO|CUNA_ROTA|2023-11-03",
+        "NIO|CUNA_ROTA|2023-12-06",
+        "NIO|CUNA_ROTA|2023-12-15",
+        "NIO|CUNA_ROTA|2024-03-01",
+        "NIO|CUNA_ROTA|2024-04-25",
+        "NIO|CUNA_ROTA|2024-04-26",
+        "NIO|CUNA_ROTA|2025-01-06",
+        "NIO|CUNA_ROTA|2025-06-10",
+        "NIO|CUNA_ROTA|2026-02-05",
+        "NIO|CUNA_ROTA|2026-02-06",
+        "NIO|CUNA_ROTA|2026-02-23",
+        "NIO|CUNA_ROTA|2026-07-31",
+        "NIO|CUNA_ROTA|2026-08-10",
+        "NIO|CUNA_ROTA|2026-10-06"
+      ]
+    },
+    "TCEHY": {
+      "baseline": "2026-10-21",
+      "seen": [
+        "TCEHY|CUNA_ROTA|2022-04-04",
+        "TCEHY|CUNA_ROTA|2022-08-25",
+        "TCEHY|CUNA_ROTA|2023-10-10",
+        "TCEHY|CUNA_ROTA|2023-11-03",
+        "TCEHY|CUNA_ROTA|2024-01-25",
+        "TCEHY|CUNA_ROTA|2024-02-06",
+        "TCEHY|CUNA_ROTA|2024-08-27",
+        "TCEHY|CUNA_ROTA|2024-09-19",
+        "TCEHY|CUNA_ROTA|2024-12-05",
+        "TCEHY|CUNA_ROTA|2026-06-02",
+        "TCEHY|CUNA_ROTA|2026-06-10",
+        "TCEHY|CUNA_ROTA|2026-07-07"
+      ]
+    },
+    "BZUN": {
+      "baseline": "2026-10-21",
+      "seen": [
+        "BZUN|DIV_ALCISTA|2022-10-18",
+        "BZUN|DIV_ALCISTA|2022-11-08",
+        "BZUN|DIV_ALCISTA|2023-06-05",
+        "BZUN|DIV_ALCISTA|2023-10-06",
+        "BZUN|DIV_ALCISTA|2024-08-08",
+        "BZUN|CUNA_ROTA|2023-03-29",
+        "BZUN|CUNA_ROTA|2023-05-11",
+        "BZUN|CUNA_ROTA|2023-06-07",
+        "BZUN|CUNA_ROTA|2023-06-12",
+        "BZUN|CUNA_ROTA|2023-11-14",
+        "BZUN|CUNA_ROTA|2024-02-12",
+        "BZUN|CUNA_ROTA|2024-08-29",
+        "BZUN|CUNA_ROTA|2024-09-11",
+        "BZUN|CUNA_ROTA|2024-09-20",
+        "BZUN|CUNA_ROTA|2025-12-05",
+        "BZUN|CUNA_ROTA|2025-12-24",
+        "BZUN|CUNA_ROTA|2025-12-31"
+      ]
+    },
+    "FUTU": {
+      "baseline": "2026-10-21",
+      "seen": [
+        "FUTU|DIV_ALCISTA|2021-12-22",
+        "FUTU|CUNA_ROTA|2022-05-19",
+        "FUTU|CUNA_ROTA|2022-11-01",
+        "FUTU|CUNA_ROTA|2022-11-11",
+        "FUTU|CUNA_ROTA|2023-03-24",
+        "FUTU|CUNA_ROTA|2023-07-05",
+        "FUTU|CUNA_ROTA|2023-12-28",
+        "FUTU|CUNA_ROTA|2024-09-19",
+        "FUTU|CUNA_ROTA|2024-12-09",
+        "FUTU|CUNA_ROTA|2025-01-17",
+        "FUTU|CUNA_ROTA|2025-01-23",
+        "FUTU|CUNA_ROTA|2026-03-10",
+        "FUTU|CUNA_ROTA|2026-04-08"
+      ]
+    },
+    "MOMO": {
+      "baseline": "2026-10-21",
+      "seen": [
+        "MOMO|DIV_ALCISTA|2021-12-23",
+        "MOMO|DIV_ALCISTA|2023-10-10",
+        "MOMO|DIV_ALCISTA|2023-10-25",
+        "MOMO|DIV_ALCISTA|2024-02-08",
+        "MOMO|CUNA_ROTA|2022-04-27",
+        "MOMO|CUNA_ROTA|2022-08-03",
+        "MOMO|CUNA_ROTA|2022-08-25",
+        "MOMO|CUNA_ROTA|2023-10-24",
+        "MOMO|CUNA_ROTA|2023-12-08",
+        "MOMO|CUNA_ROTA|2024-05-17",
+        "MOMO|CUNA_ROTA|2024-06-20",
+        "MOMO|CUNA_ROTA|2024-09-24",
+        "MOMO|CUNA_ROTA|2024-12-09",
+        "MOMO|CUNA_ROTA|2025-09-04",
+        "MOMO|CUNA_ROTA|2025-10-20",
+        "MOMO|CUNA_ROTA|2025-12-01",
+        "MOMO|CUNA_ROTA|2026-01-12"
+      ]
+    },
+    "MNSO": {
+      "baseline": "2026-10-21",
+      "seen": [
+        "MNSO|DIV_ALCISTA|2022-02-01",
+        "MNSO|DIV_ALCISTA|2024-07-24",
+        "MNSO|DIV_ALCISTA|2024-09-27",
+        "MNSO|DIV_ALCISTA|2026-01-06",
+        "MNSO|DIV_ALCISTA|2026-05-05",
+        "MNSO|CUNA_ROTA|2022-02-09",
+        "MNSO|CUNA_ROTA|2022-06-08",
+        "MNSO|CUNA_ROTA|2022-11-02",
+        "MNSO|CUNA_ROTA|2024-03-13",
+        "MNSO|CUNA_ROTA|2024-08-21",
+        "MNSO|CUNA_ROTA|2025-03-12",
+        "MNSO|CUNA_ROTA|2025-07-22",
+        "MNSO|CUNA_ROTA|2025-12-15",
+        "MNSO|CUNA_ROTA|2026-01-09",
+        "MNSO|CUNA_ROTA|2026-04-08",
+        "MNSO|CUNA_ROTA|2026-05-13",
+        "MNSO|CUNA_ROTA|2026-10-09"
+      ]
+    },
+    "TAL": {
+      "baseline": "2026-10-21",
+      "seen": [
+        "TAL|DIV_ALCISTA|2022-01-13",
+        "TAL|DIV_ALCISTA|2025-04-30",
+        "TAL|CUNA_ROTA|2022-03-29",
+        "TAL|CUNA_ROTA|2023-03-02",
+        "TAL|CUNA_ROTA|2023-04-18",
+        "TAL|CUNA_ROTA|2023-05-11",
+        "TAL|CUNA_ROTA|2023-06-01",
+        "TAL|CUNA_ROTA|2024-07-22",
+        "TAL|CUNA_ROTA|2024-09-24",
+        "TAL|CUNA_ROTA|2025-01-17",
+        "TAL|CUNA_ROTA|2025-01-23",
+        "TAL|CUNA_ROTA|2026-04-08",
+        "TAL|CUNA_ROTA|2026-06-22"
+      ]
+    },
+    "EDU": {
+      "baseline": "2026-10-21",
+      "seen": [
+        "EDU|DIV_ALCISTA|2026-06-30",
+        "EDU|CUNA_ROTA|2022-04-04",
+        "EDU|CUNA_ROTA|2023-04-17",
+        "EDU|CUNA_ROTA|2024-04-23",
+        "EDU|CUNA_ROTA|2024-09-24",
+        "EDU|CUNA_ROTA|2024-12-31",
+        "EDU|CUNA_ROTA|2025-01-07",
+        "EDU|CUNA_ROTA|2025-03-14",
+        "EDU|CUNA_ROTA|2025-04-24",
+        "EDU|CUNA_ROTA|2025-04-29",
+        "EDU|CUNA_ROTA|2025-08-29",
+        "EDU|CUNA_ROTA|2026-04-01",
+        "EDU|CUNA_ROTA|2026-06-12",
+        "EDU|CUNA_ROTA|2026-06-26"
+      ]
+    },
+    "WB": {
+      "baseline": "2026-10-21",
+      "seen": [
+        "WB|DIV_ALCISTA|2026-06-03",
+        "WB|DIV_ALCISTA|2026-09-22",
+        "WB|CUNA_ROTA|2022-05-20",
+        "WB|CUNA_ROTA|2022-08-25",
+        "WB|CUNA_ROTA|2023-05-16",
+        "WB|CUNA_ROTA|2023-07-12",
+        "WB|CUNA_ROTA|2023-07-26",
+        "WB|CUNA_ROTA|2023-10-09",
+        "WB|CUNA_ROTA|2024-02-06",
+        "WB|CUNA_ROTA|2024-07-10",
+        "WB|CUNA_ROTA|2024-09-24",
+        "WB|CUNA_ROTA|2025-05-22",
+        "WB|CUNA_ROTA|2025-12-01",
+        "WB|CUNA_ROTA|2025-12-16",
+        "WB|CUNA_ROTA|2026-02-23",
+        "WB|CUNA_ROTA|2026-07-20"
+      ]
+    },
+    "XPEV": {
+      "baseline": "2026-10-21",
+      "seen": [
+        "XPEV|DIV_ALCISTA|2022-11-07",
+        "XPEV|DIV_ALCISTA|2024-04-11",
+        "XPEV|DIV_ALCISTA|2026-03-06",
+        "XPEV|DIV_ALCISTA|2026-08-11",
+        "XPEV|CUNA_ROTA|2022-11-04",
+        "XPEV|CUNA_ROTA|2022-11-30",
+        "XPEV|CUNA_ROTA|2023-03-20",
+        "XPEV|CUNA_ROTA|2023-03-21",
+        "XPEV|CUNA_ROTA|2023-03-23",
+        "XPEV|CUNA_ROTA|2023-11-02",
+        "XPEV|CUNA_ROTA|2024-02-27",
+        "XPEV|CUNA_ROTA|2024-03-11",
+        "XPEV|CUNA_ROTA|2024-09-03",
+        "XPEV|CUNA_ROTA|2025-07-18",
+        "XPEV|CUNA_ROTA|2026-01-12",
+        "XPEV|CUNA_ROTA|2026-02-24",
+        "XPEV|CUNA_ROTA|2026-05-26",
+        "XPEV|CUNA_ROTA|2026-07-10",
+        "XPEV|CUNA_ROTA|2026-08-17"
+      ]
+    },
+    "GC=F": {
+      "baseline": "2026-10-21",
+      "seen": [
+        "GC=F|DIV_ALCISTA|2026-06-30",
+        "GC=F|CUNA_ROTA|2022-06-02",
+        "GC=F|CUNA_ROTA|2022-11-04",
+        "GC=F|CUNA_ROTA|2022-11-08",
+        "GC=F|CUNA_ROTA|2022-11-10",
+        "GC=F|CUNA_ROTA|2023-06-15",
+        "GC=F|CUNA_ROTA|2023-08-29",
+        "GC=F|CUNA_ROTA|2026-07-22",
+        "GC=F|CUNA_ROTA|2026-08-04"
+      ]
+    },
+    "SI=F": {
+      "baseline": "2026-10-21",
+      "seen": [
+        "SI=F|DIV_ALCISTA|2022-07-20",
+        "SI=F|DIV_ALCISTA|2026-07-22",
+        "SI=F|CUNA_ROTA|2022-06-16",
+        "SI=F|CUNA_ROTA|2022-09-12",
+        "SI=F|CUNA_ROTA|2022-10-03",
+        "SI=F|CUNA_ROTA|2023-07-10",
+        "SI=F|CUNA_ROTA|2023-11-15",
+        "SI=F|CUNA_ROTA|2024-02-15",
+        "SI=F|CUNA_ROTA|2024-08-15",
+        "SI=F|CUNA_ROTA|2025-01-30",
+        "SI=F|CUNA_ROTA|2025-05-06",
+        "SI=F|CUNA_ROTA|2026-03-31",
+        "SI=F|CUNA_ROTA|2026-07-20"
+      ]
+    },
+    "BTC-USD": {
+      "baseline": "2026-10-21",
+      "seen": [
+        "BTC-USD|DIV_ALCISTA|2021-12-21",
+        "BTC-USD|DIV_ALCISTA|2022-09-10",
+        "BTC-USD|DIV_ALCISTA|2023-09-04",
+        "BTC-USD|DIV_ALCISTA|2024-09-10",
+        "BTC-USD|DIV_ALCISTA|2025-03-13",
+        "BTC-USD|DIV_ALCISTA|2026-06-29",
+        "BTC-USD|CUNA_ROTA|2022-06-06",
+        "BTC-USD|CUNA_ROTA|2022-10-23",
+        "BTC-USD|CUNA_ROTA|2023-05-28",
+        "BTC-USD|CUNA_ROTA|2023-06-20",
+        "BTC-USD|CUNA_ROTA|2023-09-17",
+        "BTC-USD|CUNA_ROTA|2024-02-06",
+        "BTC-USD|CUNA_ROTA|2024-05-15",
+        "BTC-USD|CUNA_ROTA|2025-04-17",
+        "BTC-USD|CUNA_ROTA|2025-04-20",
+        "BTC-USD|CUNA_ROTA|2025-04-21",
+        "BTC-USD|CUNA_ROTA|2026-08-05"
+      ]
+    },
+    "ETH-USD": {
+      "baseline": "2026-10-21",
+      "seen": [
+        "ETH-USD|DIV_ALCISTA|2022-05-31",
+        "ETH-USD|DIV_ALCISTA|2023-09-08",
+        "ETH-USD|DIV_ALCISTA|2024-09-10",
+        "ETH-USD|DIV_ALCISTA|2026-06-29",
+        "ETH-USD|CUNA_ROTA|2022-10-03",
+        "ETH-USD|CUNA_ROTA|2022-10-14",
+        "ETH-USD|CUNA_ROTA|2022-12-11",
+        "ETH-USD|CUNA_ROTA|2023-10-23",
+        "ETH-USD|CUNA_ROTA|2024-05-18",
+        "ETH-USD|CUNA_ROTA|2024-05-20",
+        "ETH-USD|CUNA_ROTA|2024-08-21",
+        "ETH-USD|CUNA_ROTA|2025-02-23",
+        "ETH-USD|CUNA_ROTA|2025-04-16",
+        "ETH-USD|CUNA_ROTA|2025-04-21",
+        "ETH-USD|CUNA_ROTA|2025-04-22",
+        "ETH-USD|CUNA_ROTA|2025-04-26",
+        "ETH-USD|CUNA_ROTA|2025-07-09",
+        "ETH-USD|CUNA_ROTA|2025-11-28",
+        "ETH-USD|CUNA_ROTA|2025-12-03",
+        "ETH-USD|CUNA_ROTA|2025-12-09",
+        "ETH-USD|CUNA_ROTA|2025-12-30",
+        "ETH-USD|CUNA_ROTA|2026-03-04",
+        "ETH-USD|CUNA_ROTA|2026-07-02",
+        "ETH-USD|CUNA_ROTA|2026-07-14"
+      ]
+    },
+    "XRP-USD": {
+      "baseline": "2026-10-21",
+      "seen": [
+        "XRP-USD|DIV_ALCISTA|2025-10-20",
+        "XRP-USD|DIV_ALCISTA|2026-06-29",
+        "XRP-USD|CUNA_ROTA|2023-01-11",
+        "XRP-USD|CUNA_ROTA|2023-05-16",
+        "XRP-USD|CUNA_ROTA|2024-02-07",
+        "XRP-USD|CUNA_ROTA|2024-02-09",
+        "XRP-USD|CUNA_ROTA|2024-02-27",
+        "XRP-USD|CUNA_ROTA|2024-05-05",
+        "XRP-USD|CUNA_ROTA|2024-07-02",
+        "XRP-USD|CUNA_ROTA|2025-03-02",
+        "XRP-USD|CUNA_ROTA|2025-04-12",
+        "XRP-USD|CUNA_ROTA|2025-04-22",
+        "XRP-USD|CUNA_ROTA|2025-05-08",
+        "XRP-USD|CUNA_ROTA|2025-05-10",
+        "XRP-USD|CUNA_ROTA|2025-07-08",
+        "XRP-USD|CUNA_ROTA|2025-12-03",
+        "XRP-USD|CUNA_ROTA|2025-12-27",
+        "XRP-USD|CUNA_ROTA|2026-01-02",
+        "XRP-USD|CUNA_ROTA|2026-03-04",
+        "XRP-USD|CUNA_ROTA|2026-03-12",
+        "XRP-USD|CUNA_ROTA|2026-04-13",
+        "XRP-USD|CUNA_ROTA|2026-07-05",
+        "XRP-USD|CUNA_ROTA|2026-07-19",
+        "XRP-USD|CUNA_ROTA|2026-07-20",
+        "XRP-USD|CUNA_ROTA|2026-07-21"
+      ]
+    },
+    "SOL-USD": {
+      "baseline": "2026-10-21",
+      "seen": [
+        "SOL-USD|DIV_ALCISTA|2022-02-25",
+        "SOL-USD|DIV_ALCISTA|2022-05-30",
+        "SOL-USD|DIV_ALCISTA|2025-03-14",
+        "SOL-USD|CUNA_ROTA|2022-02-28",
+        "SOL-USD|CUNA_ROTA|2022-07-04",
+        "SOL-USD|CUNA_ROTA|2022-10-04",
+        "SOL-USD|CUNA_ROTA|2022-10-05",
+        "SOL-USD|CUNA_ROTA|2022-10-25",
+        "SOL-USD|CUNA_ROTA|2022-10-28",
+        "SOL-USD|CUNA_ROTA|2022-12-20",
+        "SOL-USD|CUNA_ROTA|2023-06-29",
+        "SOL-USD|CUNA_ROTA|2023-09-20",
+        "SOL-USD|CUNA_ROTA|2024-01-29",
+        "SOL-USD|CUNA_ROTA|2024-07-15",
+        "SOL-USD|CUNA_ROTA|2024-08-19",
+        "SOL-USD|CUNA_ROTA|2024-09-19",
+        "SOL-USD|CUNA_ROTA|2024-09-21",
+        "SOL-USD|CUNA_ROTA|2025-01-01",
+        "SOL-USD|CUNA_ROTA|2025-03-23",
+        "SOL-USD|CUNA_ROTA|2025-04-09",
+        "SOL-USD|CUNA_ROTA|2025-07-10",
+        "SOL-USD|CUNA_ROTA|2025-11-26",
+        "SOL-USD|CUNA_ROTA|2025-12-02",
+        "SOL-USD|CUNA_ROTA|2025-12-21",
+        "SOL-USD|CUNA_ROTA|2025-12-28",
+        "SOL-USD|CUNA_ROTA|2026-02-21",
+        "SOL-USD|CUNA_ROTA|2026-03-03",
+        "SOL-USD|CUNA_ROTA|2026-04-13",
+        "SOL-USD|CUNA_ROTA|2026-06-26",
+        "SOL-USD|CUNA_ROTA|2026-06-29"
+      ]
+    },
+    "CRCL": {
+      "baseline": "2026-10-21",
+      "seen": [
+        "CRCL|CUNA_ROTA|2025-12-11",
+        "CRCL|CUNA_ROTA|2025-12-22",
+        "CRCL|CUNA_ROTA|2026-01-05",
+        "CRCL|CUNA_ROTA|2026-02-24",
+        "CRCL|CUNA_ROTA|2026-08-04"
+      ]
+    },
+    "PYPL": {
+      "baseline": "2026-10-21",
+      "seen": [
+        "PYPL|DIV_ALCISTA|2022-06-23",
+        "PYPL|DIV_ALCISTA|2026-01-07",
+        "PYPL|DIV_ALCISTA|2026-02-18",
+        "PYPL|CUNA_ROTA|2022-03-09",
+        "PYPL|CUNA_ROTA|2022-05-27",
+        "PYPL|CUNA_ROTA|2022-07-15",
+        "PYPL|CUNA_ROTA|2022-12-30",
+        "PYPL|CUNA_ROTA|2023-03-31",
+        "PYPL|CUNA_ROTA|2023-04-13",
+        "PYPL|CUNA_ROTA|2023-10-11",
+        "PYPL|CUNA_ROTA|2023-11-02",
+        "PYPL|CUNA_ROTA|2023-11-14",
+        "PYPL|CUNA_ROTA|2024-03-13",
+        "PYPL|CUNA_ROTA|2024-07-30",
+        "PYPL|CUNA_ROTA|2025-04-24",
+        "PYPL|CUNA_ROTA|2025-09-17",
+        "PYPL|CUNA_ROTA|2025-12-11",
+        "PYPL|CUNA_ROTA|2025-12-24",
+        "PYPL|CUNA_ROTA|2025-12-26",
+        "PYPL|CUNA_ROTA|2026-01-06",
+        "PYPL|CUNA_ROTA|2026-06-26",
+        "PYPL|CUNA_ROTA|2026-10-06"
+      ]
+    },
+    "PGR": {
+      "baseline": "2026-10-21",
+      "seen": [
+        "PGR|DIV_ALCISTA|2025-08-01",
+        "PGR|CUNA_ROTA|2023-05-17",
+        "PGR|CUNA_ROTA|2025-02-11",
+        "PGR|CUNA_ROTA|2025-07-25",
+        "PGR|CUNA_ROTA|2025-08-06",
+        "PGR|CUNA_ROTA|2026-02-26",
+        "PGR|CUNA_ROTA|2026-06-16"
+      ]
+    },
+    "LULU": {
+      "baseline": "2026-10-21",
+      "seen": [
+        "LULU|DIV_ALCISTA|2022-03-01",
+        "LULU|DIV_ALCISTA|2024-07-18",
+        "LULU|DIV_ALCISTA|2025-09-18",
+        "LULU|DIV_ALCISTA|2026-06-26",
+        "LULU|CUNA_ROTA|2022-03-24",
+        "LULU|CUNA_ROTA|2022-06-24",
+        "LULU|CUNA_ROTA|2022-07-07",
+        "LULU|CUNA_ROTA|2022-10-25",
+        "LULU|CUNA_ROTA|2023-01-27",
+        "LULU|CUNA_ROTA|2023-02-01",
+        "LULU|CUNA_ROTA|2023-02-15",
+        "LULU|CUNA_ROTA|2023-03-23",
+        "LULU|CUNA_ROTA|2023-03-27",
+        "LULU|CUNA_ROTA|2024-03-08",
+        "LULU|CUNA_ROTA|2024-03-14",
+        "LULU|CUNA_ROTA|2025-10-09",
+        "LULU|CUNA_ROTA|2026-06-24",
+        "LULU|CUNA_ROTA|2026-10-08"
+      ]
+    },
+    "GDDY": {
+      "baseline": "2026-10-21",
+      "seen": [
+        "GDDY|DIV_ALCISTA|2022-06-23",
+        "GDDY|DIV_ALCISTA|2025-10-07",
+        "GDDY|DIV_ALCISTA|2026-02-09",
+        "GDDY|CUNA_ROTA|2022-06-24",
+        "GDDY|CUNA_ROTA|2022-07-06",
+        "GDDY|CUNA_ROTA|2022-11-23",
+        "GDDY|CUNA_ROTA|2023-04-18",
+        "GDDY|CUNA_ROTA|2023-06-15",
+        "GDDY|CUNA_ROTA|2025-09-08",
+        "GDDY|CUNA_ROTA|2025-10-31",
+        "GDDY|CUNA_ROTA|2025-11-03"
+      ]
+    },
+    "ZTS": {
+      "baseline": "2026-10-21",
+      "seen": [
+        "ZTS|DIV_ALCISTA|2022-03-01",
+        "ZTS|DIV_ALCISTA|2024-04-26",
+        "ZTS|DIV_ALCISTA|2025-08-11",
+        "ZTS|DIV_ALCISTA|2026-07-06",
+        "ZTS|CUNA_ROTA|2022-03-16",
+        "ZTS|CUNA_ROTA|2022-06-24",
+        "ZTS|CUNA_ROTA|2022-10-25",
+        "ZTS|CUNA_ROTA|2023-04-03",
+        "ZTS|CUNA_ROTA|2023-06-15",
+        "ZTS|CUNA_ROTA|2023-06-29",
+        "ZTS|CUNA_ROTA|2024-11-22",
+        "ZTS|CUNA_ROTA|2025-01-27",
+        "ZTS|CUNA_ROTA|2025-08-14",
+        "ZTS|CUNA_ROTA|2025-10-21"
+      ]
+    },
+    "SAP.DE": {
+      "baseline": "2026-10-21",
+      "seen": [
+        "SAP.DE|DIV_ALCISTA|2022-09-28",
+        "SAP.DE|DIV_ALCISTA|2026-01-09",
+        "SAP.DE|DIV_ALCISTA|2026-04-15",
+        "SAP.DE|CUNA_ROTA|2022-07-19",
+        "SAP.DE|CUNA_ROTA|2022-10-18",
+        "SAP.DE|CUNA_ROTA|2023-08-09",
+        "SAP.DE|CUNA_ROTA|2025-12-18",
+        "SAP.DE|CUNA_ROTA|2026-02-18",
+        "SAP.DE|CUNA_ROTA|2026-04-16",
+        "SAP.DE|CUNA_ROTA|2026-04-17",
+        "SAP.DE|CUNA_ROTA|2026-05-07",
+        "SAP.DE|CUNA_ROTA|2026-07-20"
+      ]
+    },
+    "ADSK": {
+      "baseline": "2026-10-21",
+      "seen": [
+        "ADSK|DIV_ALCISTA|2022-03-01",
+        "ADSK|DIV_ALCISTA|2022-05-02",
+        "ADSK|DIV_ALCISTA|2025-04-10",
+        "ADSK|CUNA_ROTA|2022-05-27",
+        "ADSK|CUNA_ROTA|2022-07-19",
+        "ADSK|CUNA_ROTA|2023-05-17",
+        "ADSK|CUNA_ROTA|2025-04-15",
+        "ADSK|CUNA_ROTA|2026-07-16"
+      ]
+    },
+    "BKNG": {
+      "baseline": "2026-10-21",
+      "seen": [
+        "BKNG|DIV_ALCISTA|2025-04-10",
+        "BKNG|CUNA_ROTA|2022-04-27",
+        "BKNG|CUNA_ROTA|2022-05-25",
+        "BKNG|CUNA_ROTA|2022-11-10",
+        "BKNG|CUNA_ROTA|2023-06-30",
+        "BKNG|CUNA_ROTA|2025-04-22",
+        "BKNG|CUNA_ROTA|2025-04-23",
+        "BKNG|CUNA_ROTA|2026-04-06",
+        "BKNG|CUNA_ROTA|2026-06-15"
+      ]
+    },
+    "GEN": {
+      "baseline": "2026-10-21",
+      "seen": [
+        "GEN|DIV_ALCISTA|2023-05-22",
+        "GEN|DIV_ALCISTA|2023-11-02",
+        "GEN|DIV_ALCISTA|2024-04-23",
+        "GEN|DIV_ALCISTA|2025-11-04",
+        "GEN|DIV_ALCISTA|2026-02-26",
+        "GEN|DIV_ALCISTA|2026-04-15",
+        "GEN|CUNA_ROTA|2022-05-26",
+        "GEN|CUNA_ROTA|2022-07-06",
+        "GEN|CUNA_ROTA|2022-07-18",
+        "GEN|CUNA_ROTA|2022-10-13",
+        "GEN|CUNA_ROTA|2023-04-27",
+        "GEN|CUNA_ROTA|2023-11-03",
+        "GEN|CUNA_ROTA|2025-02-10",
+        "GEN|CUNA_ROTA|2025-12-03"
+      ]
+    },
+    "EXPE": {
+      "baseline": "2026-10-21",
+      "seen": [
+        "EXPE|DIV_ALCISTA|2022-05-23",
+        "EXPE|CUNA_ROTA|2022-03-24",
+        "EXPE|CUNA_ROTA|2022-10-18",
+        "EXPE|CUNA_ROTA|2023-08-18",
+        "EXPE|CUNA_ROTA|2023-10-11",
+        "EXPE|CUNA_ROTA|2023-11-03",
+        "EXPE|CUNA_ROTA|2024-04-23",
+        "EXPE|CUNA_ROTA|2024-06-20",
+        "EXPE|CUNA_ROTA|2025-05-02",
+        "EXPE|CUNA_ROTA|2026-04-08",
+        "EXPE|CUNA_ROTA|2026-06-04"
+      ]
+    },
+    "RMD": {
+      "baseline": "2026-10-21",
+      "seen": [
+        "RMD|DIV_ALCISTA|2022-05-17",
+        "RMD|DIV_ALCISTA|2026-05-18",
+        "RMD|CUNA_ROTA|2023-06-29",
+        "RMD|CUNA_ROTA|2025-01-17",
+        "RMD|CUNA_ROTA|2025-01-21",
+        "RMD|CUNA_ROTA|2025-11-21",
+        "RMD|CUNA_ROTA|2026-05-19"
+      ]
+    },
+    "CPAY": {
+      "baseline": "2026-10-21",
+      "seen": [
+        "CPAY|DIV_ALCISTA|2022-06-28",
+        "CPAY|DIV_ALCISTA|2022-10-18",
+        "CPAY|CUNA_ROTA|2022-07-19",
+        "CPAY|CUNA_ROTA|2022-08-01",
+        "CPAY|CUNA_ROTA|2022-08-16",
+        "CPAY|CUNA_ROTA|2022-10-21",
+        "CPAY|CUNA_ROTA|2023-11-15",
+        "CPAY|CUNA_ROTA|2023-11-28",
+        "CPAY|CUNA_ROTA|2024-07-03",
+        "CPAY|CUNA_ROTA|2025-10-27",
+        "CPAY|CUNA_ROTA|2026-04-06"
+      ]
+    },
+    "EFX": {
+      "baseline": "2026-10-21",
+      "seen": [
+        "EFX|DIV_ALCISTA|2022-03-01",
+        "EFX|DIV_ALCISTA|2022-10-18",
+        "EFX|DIV_ALCISTA|2023-11-02",
+        "EFX|DIV_ALCISTA|2025-08-06",
+        "EFX|DIV_ALCISTA|2026-03-30",
+        "EFX|CUNA_ROTA|2022-10-26",
+        "EFX|CUNA_ROTA|2022-10-27",
+        "EFX|CUNA_ROTA|2022-11-10",
+        "EFX|CUNA_ROTA|2023-03-21",
+        "EFX|CUNA_ROTA|2023-03-31",
+        "EFX|CUNA_ROTA|2023-04-20",
+        "EFX|CUNA_ROTA|2023-04-27",
+        "EFX|CUNA_ROTA|2025-04-01",
+        "EFX|CUNA_ROTA|2025-04-02",
+        "EFX|CUNA_ROTA|2025-11-20",
+        "EFX|CUNA_ROTA|2025-12-05",
+        "EFX|CUNA_ROTA|2026-02-25",
+        "EFX|CUNA_ROTA|2026-07-02",
+        "EFX|CUNA_ROTA|2026-07-07",
+        "EFX|CUNA_ROTA|2026-07-20"
+      ]
+    }
+  }
+}
