@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-25T05:03:17.032191+00:00",
+  "checked_at": "2026-10-26T05:06:54.233952+00:00",
   "assets": [
     {
       "Ticker": "AAPL",
@@ -649,22 +649,22 @@
     {
       "Ticker": "BTC-USD",
       "Estado": "OK",
-      "Ultima_vela": "2026-10-23"
+      "Ultima_vela": "2026-10-24"
     },
     {
       "Ticker": "ETH-USD",
       "Estado": "OK",
-      "Ultima_vela": "2026-10-23"
+      "Ultima_vela": "2026-10-24"
     },
     {
       "Ticker": "XRP-USD",
       "Estado": "OK",
-      "Ultima_vela": "2026-10-23"
+      "Ultima_vela": "2026-10-24"
     },
     {
       "Ticker": "SOL-USD",
       "Estado": "OK",
-      "Ultima_vela": "2026-10-23"
+      "Ultima_vela": "2026-10-24"
     },
     {
       "Ticker": "CRCL",
