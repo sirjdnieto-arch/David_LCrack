@@ -1810,7 +1810,8 @@
       "seen": [
         "ACS.MC|DIV_ALCISTA|2026-09-08",
         "ACS.MC|CUNA_ROTA|2022-08-09",
-        "ACS.MC|CUNA_ROTA|2025-04-23"
+        "ACS.MC|CUNA_ROTA|2025-04-23",
+        "ACS.MC|CUNA_ROTA|2026-10-27"
       ]
     },
     "AENA.MC": {
@@ -1978,7 +1979,8 @@
         "NIO|CUNA_ROTA|2026-02-23",
         "NIO|CUNA_ROTA|2026-07-31",
         "NIO|CUNA_ROTA|2026-08-10",
-        "NIO|CUNA_ROTA|2026-10-06"
+        "NIO|CUNA_ROTA|2026-10-06",
+        "NIO|CUNA_ROTA|2026-10-28"
       ]
     },
     "TCEHY": {
