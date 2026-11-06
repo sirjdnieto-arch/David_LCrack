@@ -1,500 +1,500 @@
 {
-  "checked_at": "2026-11-05T07:09:14.304132+00:00",
+  "checked_at": "2026-11-06T07:08:44.152100+00:00",
   "assets": [
     {
       "Ticker": "AAPL",
       "Estado": "OK",
-      "Ultima_vela": "2026-11-04"
+      "Ultima_vela": "2026-11-05"
     },
     {
       "Ticker": "MSFT",
       "Estado": "OK",
-      "Ultima_vela": "2026-11-04"
+      "Ultima_vela": "2026-11-05"
     },
     {
       "Ticker": "AMZN",
       "Estado": "OK",
-      "Ultima_vela": "2026-11-04"
+      "Ultima_vela": "2026-11-05"
     },
     {
       "Ticker": "NVDA",
       "Estado": "OK",
-      "Ultima_vela": "2026-11-04"
+      "Ultima_vela": "2026-11-05"
     },
     {
       "Ticker": "GOOG",
       "Estado": "OK",
-      "Ultima_vela": "2026-11-04"
+      "Ultima_vela": "2026-11-05"
     },
     {
       "Ticker": "META",
       "Estado": "OK",
-      "Ultima_vela": "2026-11-04"
+      "Ultima_vela": "2026-11-05"
     },
     {
       "Ticker": "BRK-B",
       "Estado": "OK",
-      "Ultima_vela": "2026-11-04"
+      "Ultima_vela": "2026-11-05"
     },
     {
       "Ticker": "TSLA",
       "Estado": "OK",
-      "Ultima_vela": "2026-11-04"
+      "Ultima_vela": "2026-11-05"
     },
     {
       "Ticker": "JNJ",
       "Estado": "OK",
-      "Ultima_vela": "2026-11-04"
+      "Ultima_vela": "2026-11-05"
     },
     {
       "Ticker": "V",
       "Estado": "OK",
-      "Ultima_vela": "2026-11-04"
+      "Ultima_vela": "2026-11-05"
     },
     {
       "Ticker": "PG",
       "Estado": "OK",
-      "Ultima_vela": "2026-11-04"
+      "Ultima_vela": "2026-11-05"
     },
     {
       "Ticker": "XOM",
       "Estado": "OK",
-      "Ultima_vela": "2026-11-04"
+      "Ultima_vela": "2026-11-05"
     },
     {
       "Ticker": "UNH",
       "Estado": "OK",
-      "Ultima_vela": "2026-11-04"
+      "Ultima_vela": "2026-11-05"
     },
     {
       "Ticker": "JPM",
       "Estado": "OK",
-      "Ultima_vela": "2026-11-04"
+      "Ultima_vela": "2026-11-05"
     },
     {
       "Ticker": "HD",
       "Estado": "OK",
-      "Ultima_vela": "2026-11-04"
+      "Ultima_vela": "2026-11-05"
     },
     {
       "Ticker": "LLY",
       "Estado": "OK",
-      "Ultima_vela": "2026-11-04"
+      "Ultima_vela": "2026-11-05"
     },
     {
       "Ticker": "MA",
       "Estado": "OK",
-      "Ultima_vela": "2026-11-04"
+      "Ultima_vela": "2026-11-05"
     },
     {
       "Ticker": "CVX",
       "Estado": "OK",
-      "Ultima_vela": "2026-11-04"
+      "Ultima_vela": "2026-11-05"
     },
     {
       "Ticker": "ABBV",
       "Estado": "OK",
-      "Ultima_vela": "2026-11-04"
+      "Ultima_vela": "2026-11-05"
     },
     {
       "Ticker": "KO",
       "Estado": "OK",
-      "Ultima_vela": "2026-11-04"
+      "Ultima_vela": "2026-11-05"
     },
     {
       "Ticker": "PEP",
       "Estado": "OK",
-      "Ultima_vela": "2026-11-04"
+      "Ultima_vela": "2026-11-05"
     },
     {
       "Ticker": "COST",
       "Estado": "OK",
-      "Ultima_vela": "2026-11-04"
+      "Ultima_vela": "2026-11-05"
     },
     {
       "Ticker": "BAC",
       "Estado": "OK",
-      "Ultima_vela": "2026-11-04"
+      "Ultima_vela": "2026-11-05"
     },
     {
       "Ticker": "CRM",
       "Estado": "OK",
-      "Ultima_vela": "2026-11-04"
+      "Ultima_vela": "2026-11-05"
     },
     {
       "Ticker": "NFLX",
       "Estado": "OK",
-      "Ultima_vela": "2026-11-04"
+      "Ultima_vela": "2026-11-05"
     },
     {
       "Ticker": "ABT",
       "Estado": "OK",
-      "Ultima_vela": "2026-11-04"
+      "Ultima_vela": "2026-11-05"
     },
     {
       "Ticker": "MCD",
       "Estado": "OK",
-      "Ultima_vela": "2026-11-04"
+      "Ultima_vela": "2026-11-05"
     },
     {
       "Ticker": "LMT",
       "Estado": "OK",
-      "Ultima_vela": "2026-11-04"
+      "Ultima_vela": "2026-11-05"
     },
     {
       "Ticker": "EL",
       "Estado": "OK",
-      "Ultima_vela": "2026-11-04"
+      "Ultima_vela": "2026-11-05"
     },
     {
       "Ticker": "NEE",
       "Estado": "OK",
-      "Ultima_vela": "2026-11-04"
+      "Ultima_vela": "2026-11-05"
     },
     {
       "Ticker": "CAT",
       "Estado": "OK",
-      "Ultima_vela": "2026-11-04"
+      "Ultima_vela": "2026-11-05"
     },
     {
       "Ticker": "MRK",
       "Estado": "OK",
-      "Ultima_vela": "2026-11-04"
+      "Ultima_vela": "2026-11-05"
     },
     {
       "Ticker": "TPL",
       "Estado": "OK",
-      "Ultima_vela": "2026-11-04"
+      "Ultima_vela": "2026-11-05"
     },
     {
       "Ticker": "ASML",
       "Estado": "OK",
-      "Ultima_vela": "2026-11-04"
+      "Ultima_vela": "2026-11-05"
     },
     {
       "Ticker": "ADBE",
       "Estado": "OK",
-      "Ultima_vela": "2026-11-04"
+      "Ultima_vela": "2026-11-05"
     },
     {
       "Ticker": "AVGO",
       "Estado": "OK",
-      "Ultima_vela": "2026-11-04"
+      "Ultima_vela": "2026-11-05"
     },
     {
       "Ticker": "CSCO",
       "Estado": "OK",
-      "Ultima_vela": "2026-11-04"
+      "Ultima_vela": "2026-11-05"
     },
     {
       "Ticker": "CMCSA",
       "Estado": "OK",
-      "Ultima_vela": "2026-11-04"
+      "Ultima_vela": "2026-11-05"
     },
     {
       "Ticker": "AMD",
       "Estado": "OK",
-      "Ultima_vela": "2026-11-04"
+      "Ultima_vela": "2026-11-05"
     },
     {
       "Ticker": "TXN",
       "Estado": "OK",
-      "Ultima_vela": "2026-11-04"
+      "Ultima_vela": "2026-11-05"
     },
     {
       "Ticker": "QCOM",
       "Estado": "OK",
-      "Ultima_vela": "2026-11-04"
+      "Ultima_vela": "2026-11-05"
     },
     {
       "Ticker": "AMAT",
       "Estado": "OK",
-      "Ultima_vela": "2026-11-04"
+      "Ultima_vela": "2026-11-05"
     },
     {
       "Ticker": "LITE",
       "Estado": "OK",
-      "Ultima_vela": "2026-11-04"
+      "Ultima_vela": "2026-11-05"
     },
     {
       "Ticker": "LRCX",
       "Estado": "OK",
-      "Ultima_vela": "2026-11-04"
+      "Ultima_vela": "2026-11-05"
     },
     {
       "Ticker": "COHR",
       "Estado": "OK",
-      "Ultima_vela": "2026-11-04"
+      "Ultima_vela": "2026-11-05"
     },
     {
       "Ticker": "CMI",
       "Estado": "OK",
-      "Ultima_vela": "2026-11-04"
+      "Ultima_vela": "2026-11-05"
     },
     {
       "Ticker": "NEM",
       "Estado": "OK",
-      "Ultima_vela": "2026-11-04"
+      "Ultima_vela": "2026-11-05"
     },
     {
       "Ticker": "ULTA",
       "Estado": "OK",
-      "Ultima_vela": "2026-11-04"
+      "Ultima_vela": "2026-11-05"
     },
     {
       "Ticker": "IT",
       "Estado": "OK",
-      "Ultima_vela": "2026-11-04"
+      "Ultima_vela": "2026-11-05"
     },
     {
       "Ticker": "FOXA",
       "Estado": "OK",
-      "Ultima_vela": "2026-11-04"
+      "Ultima_vela": "2026-11-05"
     },
     {
       "Ticker": "LUV",
       "Estado": "OK",
-      "Ultima_vela": "2026-11-04"
+      "Ultima_vela": "2026-11-05"
     },
     {
       "Ticker": "VLO",
       "Estado": "OK",
-      "Ultima_vela": "2026-11-04"
+      "Ultima_vela": "2026-11-05"
     },
     {
       "Ticker": "ADP",
       "Estado": "OK",
-      "Ultima_vela": "2026-11-04"
+      "Ultima_vela": "2026-11-05"
     },
     {
       "Ticker": "FN",
       "Estado": "OK",
-      "Ultima_vela": "2026-11-04"
+      "Ultima_vela": "2026-11-05"
     },
     {
       "Ticker": "POET",
       "Estado": "OK",
-      "Ultima_vela": "2026-11-04"
+      "Ultima_vela": "2026-11-05"
     },
     {
       "Ticker": "KEYS",
       "Estado": "OK",
-      "Ultima_vela": "2026-11-04"
+      "Ultima_vela": "2026-11-05"
     },
     {
       "Ticker": "HPE",
       "Estado": "OK",
-      "Ultima_vela": "2026-11-04"
+      "Ultima_vela": "2026-11-05"
     },
     {
       "Ticker": "MRVL",
       "Estado": "OK",
-      "Ultima_vela": "2026-11-04"
+      "Ultima_vela": "2026-11-05"
     },
     {
       "Ticker": "BRKR",
       "Estado": "OK",
-      "Ultima_vela": "2026-11-04"
+      "Ultima_vela": "2026-11-05"
     },
     {
       "Ticker": "AAOI",
       "Estado": "OK",
-      "Ultima_vela": "2026-11-04"
+      "Ultima_vela": "2026-11-05"
     },
     {
       "Ticker": "INTU",
       "Estado": "OK",
-      "Ultima_vela": "2026-11-04"
+      "Ultima_vela": "2026-11-05"
     },
     {
       "Ticker": "VRTX",
       "Estado": "OK",
-      "Ultima_vela": "2026-11-04"
+      "Ultima_vela": "2026-11-05"
     },
     {
       "Ticker": "ZS",
       "Estado": "OK",
-      "Ultima_vela": "2026-11-04"
+      "Ultima_vela": "2026-11-05"
     },
     {
       "Ticker": "PLTR",
       "Estado": "OK",
-      "Ultima_vela": "2026-11-04"
+      "Ultima_vela": "2026-11-05"
     },
     {
       "Ticker": "CSU.TO",
       "Estado": "OK",
-      "Ultima_vela": "2026-11-04"
+      "Ultima_vela": "2026-11-05"
     },
     {
       "Ticker": "MU",
       "Estado": "OK",
-      "Ultima_vela": "2026-11-04"
+      "Ultima_vela": "2026-11-05"
     },
     {
       "Ticker": "LVMUY",
       "Estado": "OK",
-      "Ultima_vela": "2026-11-04"
+      "Ultima_vela": "2026-11-05"
     },
     {
       "Ticker": "SAP",
       "Estado": "OK",
-      "Ultima_vela": "2026-11-04"
+      "Ultima_vela": "2026-11-05"
     },
     {
       "Ticker": "OR.PA",
       "Estado": "OK",
-      "Ultima_vela": "2026-11-03"
+      "Ultima_vela": "2026-11-04"
     },
     {
       "Ticker": "TTE",
       "Estado": "OK",
-      "Ultima_vela": "2026-11-04"
+      "Ultima_vela": "2026-11-05"
     },
     {
       "Ticker": "ON",
       "Estado": "OK",
-      "Ultima_vela": "2026-11-04"
+      "Ultima_vela": "2026-11-05"
     },
     {
       "Ticker": "MELI",
       "Estado": "OK",
-      "Ultima_vela": "2026-11-04"
+      "Ultima_vela": "2026-11-05"
     },
     {
       "Ticker": "CTSH",
       "Estado": "OK",
-      "Ultima_vela": "2026-11-04"
+      "Ultima_vela": "2026-11-05"
     },
     {
       "Ticker": "THRY",
       "Estado": "OK",
-      "Ultima_vela": "2026-11-04"
+      "Ultima_vela": "2026-11-05"
     },
     {
       "Ticker": "QBTS",
       "Estado": "OK",
-      "Ultima_vela": "2026-11-04"
+      "Ultima_vela": "2026-11-05"
     },
     {
       "Ticker": "RGTI",
       "Estado": "OK",
-      "Ultima_vela": "2026-11-04"
+      "Ultima_vela": "2026-11-05"
     },
     {
       "Ticker": "IONQ",
       "Estado": "OK",
-      "Ultima_vela": "2026-11-04"
+      "Ultima_vela": "2026-11-05"
     },
     {
       "Ticker": "MC.PA",
       "Estado": "OK",
-      "Ultima_vela": "2026-11-03"
+      "Ultima_vela": "2026-11-04"
     },
     {
       "Ticker": "SIE.DE",
       "Estado": "OK",
-      "Ultima_vela": "2026-11-03"
+      "Ultima_vela": "2026-11-04"
     },
     {
       "Ticker": "ENGI.PA",
       "Estado": "OK",
-      "Ultima_vela": "2026-11-03"
+      "Ultima_vela": "2026-11-04"
     },
     {
       "Ticker": "AIR.PA",
       "Estado": "OK",
-      "Ultima_vela": "2026-11-03"
+      "Ultima_vela": "2026-11-04"
     },
     {
       "Ticker": "ALV.DE",
       "Estado": "OK",
-      "Ultima_vela": "2026-11-03"
+      "Ultima_vela": "2026-11-04"
     },
     {
       "Ticker": "EL.PA",
       "Estado": "OK",
-      "Ultima_vela": "2026-11-03"
+      "Ultima_vela": "2026-11-04"
     },
     {
       "Ticker": "AI.PA",
       "Estado": "OK",
-      "Ultima_vela": "2026-11-03"
+      "Ultima_vela": "2026-11-04"
     },
     {
       "Ticker": "BNP.PA",
       "Estado": "OK",
-      "Ultima_vela": "2026-11-03"
+      "Ultima_vela": "2026-11-04"
     },
     {
       "Ticker": "SAN.PA",
       "Estado": "OK",
-      "Ultima_vela": "2026-11-03"
+      "Ultima_vela": "2026-11-04"
     },
     {
       "Ticker": "KER.PA",
       "Estado": "OK",
-      "Ultima_vela": "2026-11-03"
+      "Ultima_vela": "2026-11-04"
     },
     {
       "Ticker": "SU.PA",
       "Estado": "OK",
-      "Ultima_vela": "2026-11-03"
+      "Ultima_vela": "2026-11-04"
     },
     {
       "Ticker": "NESN.SW",
       "Estado": "OK",
-      "Ultima_vela": "2026-11-04"
+      "Ultima_vela": "2026-11-05"
     },
     {
       "Ticker": "LIN.DE",
       "Estado": "OK",
-      "Ultima_vela": "2026-11-03"
+      "Ultima_vela": "2026-11-04"
     },
     {
       "Ticker": "VOW3.DE",
       "Estado": "OK",
-      "Ultima_vela": "2026-11-03"
+      "Ultima_vela": "2026-11-04"
     },
     {
       "Ticker": "BMW.DE",
       "Estado": "OK",
-      "Ultima_vela": "2026-11-03"
+      "Ultima_vela": "2026-11-04"
     },
     {
       "Ticker": "ADS.DE",
       "Estado": "OK",
-      "Ultima_vela": "2026-11-03"
+      "Ultima_vela": "2026-11-04"
     },
     {
       "Ticker": "IFX.DE",
       "Estado": "OK",
-      "Ultima_vela": "2026-11-03"
+      "Ultima_vela": "2026-11-04"
     },
     {
       "Ticker": "MUV2.DE",
       "Estado": "OK",
-      "Ultima_vela": "2026-11-03"
+      "Ultima_vela": "2026-11-04"
     },
     {
       "Ticker": "FRE.DE",
       "Estado": "OK",
-      "Ultima_vela": "2026-11-03"
+      "Ultima_vela": "2026-11-04"
     },
     {
       "Ticker": "DTE.DE",
       "Estado": "OK",
-      "Ultima_vela": "2026-11-03"
+      "Ultima_vela": "2026-11-04"
     },
     {
       "Ticker": "RWE.DE",
       "Estado": "OK",
-      "Ultima_vela": "2026-11-03"
+      "Ultima_vela": "2026-11-04"
     },
     {
       "Ticker": "ITX.MC",
       "Estado": "OK",
-      "Ultima_vela": "2026-11-03"
+      "Ultima_vela": "2026-11-04"
     },
     {
       "Ticker": "BBVA.MC",
@@ -504,17 +504,17 @@
     {
       "Ticker": "SAN.MC",
       "Estado": "OK",
-      "Ultima_vela": "2026-11-03"
+      "Ultima_vela": "2026-11-05"
     },
     {
       "Ticker": "TEF.MC",
       "Estado": "OK",
-      "Ultima_vela": "2026-11-03"
+      "Ultima_vela": "2026-11-05"
     },
     {
       "Ticker": "IBE.MC",
       "Estado": "OK",
-      "Ultima_vela": "2026-11-03"
+      "Ultima_vela": "2026-11-04"
     },
     {
       "Ticker": "REP.MC",
@@ -524,217 +524,217 @@
     {
       "Ticker": "FER.MC",
       "Estado": "OK",
-      "Ultima_vela": "2026-11-03"
+      "Ultima_vela": "2026-11-04"
     },
     {
       "Ticker": "ACX.MC",
       "Estado": "OK",
-      "Ultima_vela": "2026-11-03"
+      "Ultima_vela": "2026-11-04"
     },
     {
       "Ticker": "ACS.MC",
       "Estado": "OK",
-      "Ultima_vela": "2026-11-03"
+      "Ultima_vela": "2026-11-04"
     },
     {
       "Ticker": "AENA.MC",
       "Estado": "OK",
-      "Ultima_vela": "2026-11-03"
+      "Ultima_vela": "2026-11-04"
     },
     {
       "Ticker": "ANA.MC",
       "Estado": "OK",
-      "Ultima_vela": "2026-11-03"
+      "Ultima_vela": "2026-11-04"
     },
     {
       "Ticker": "IAG.MC",
       "Estado": "OK",
-      "Ultima_vela": "2026-11-03"
+      "Ultima_vela": "2026-11-04"
     },
     {
       "Ticker": "LOG.MC",
       "Estado": "OK",
-      "Ultima_vela": "2026-11-03"
+      "Ultima_vela": "2026-11-04"
     },
     {
       "Ticker": "MAP.MC",
       "Estado": "OK",
-      "Ultima_vela": "2026-11-03"
+      "Ultima_vela": "2026-11-04"
     },
     {
       "Ticker": "PUIG.MC",
       "Estado": "OK",
-      "Ultima_vela": "2026-11-03"
+      "Ultima_vela": "2026-11-04"
     },
     {
       "Ticker": "NTGY.MC",
       "Estado": "OK",
-      "Ultima_vela": "2026-11-03"
+      "Ultima_vela": "2026-11-04"
     },
     {
       "Ticker": "ELE.MC",
       "Estado": "OK",
-      "Ultima_vela": "2026-11-03"
+      "Ultima_vela": "2026-11-04"
     },
     {
       "Ticker": "IDR.MC",
       "Estado": "OK",
-      "Ultima_vela": "2026-11-03"
+      "Ultima_vela": "2026-11-04"
     },
     {
       "Ticker": "PDD",
       "Estado": "OK",
-      "Ultima_vela": "2026-11-04"
+      "Ultima_vela": "2026-11-05"
     },
     {
       "Ticker": "NIO",
       "Estado": "OK",
-      "Ultima_vela": "2026-11-04"
+      "Ultima_vela": "2026-11-05"
     },
     {
       "Ticker": "TCEHY",
       "Estado": "OK",
-      "Ultima_vela": "2026-11-04"
+      "Ultima_vela": "2026-11-05"
     },
     {
       "Ticker": "BZUN",
       "Estado": "OK",
-      "Ultima_vela": "2026-11-04"
+      "Ultima_vela": "2026-11-05"
     },
     {
       "Ticker": "FUTU",
       "Estado": "OK",
-      "Ultima_vela": "2026-11-04"
+      "Ultima_vela": "2026-11-05"
     },
     {
       "Ticker": "MOMO",
       "Estado": "OK",
-      "Ultima_vela": "2026-11-04"
+      "Ultima_vela": "2026-11-05"
     },
     {
       "Ticker": "MNSO",
       "Estado": "OK",
-      "Ultima_vela": "2026-11-04"
+      "Ultima_vela": "2026-11-05"
     },
     {
       "Ticker": "TAL",
       "Estado": "OK",
-      "Ultima_vela": "2026-11-04"
+      "Ultima_vela": "2026-11-05"
     },
     {
       "Ticker": "EDU",
       "Estado": "OK",
-      "Ultima_vela": "2026-11-04"
+      "Ultima_vela": "2026-11-05"
     },
     {
       "Ticker": "WB",
       "Estado": "OK",
-      "Ultima_vela": "2026-11-04"
+      "Ultima_vela": "2026-11-05"
     },
     {
       "Ticker": "XPEV",
       "Estado": "OK",
-      "Ultima_vela": "2026-11-04"
+      "Ultima_vela": "2026-11-05"
     },
     {
       "Ticker": "GC=F",
       "Estado": "OK",
-      "Ultima_vela": "2026-11-04"
+      "Ultima_vela": "2026-11-05"
     },
     {
       "Ticker": "SI=F",
       "Estado": "OK",
-      "Ultima_vela": "2026-11-04"
+      "Ultima_vela": "2026-11-05"
     },
     {
       "Ticker": "BTC-USD",
       "Estado": "OK",
-      "Ultima_vela": "2026-11-04"
+      "Ultima_vela": "2026-11-05"
     },
     {
       "Ticker": "ETH-USD",
       "Estado": "OK",
-      "Ultima_vela": "2026-11-04"
+      "Ultima_vela": "2026-11-05"
     },
     {
       "Ticker": "XRP-USD",
       "Estado": "OK",
-      "Ultima_vela": "2026-11-04"
+      "Ultima_vela": "2026-11-05"
     },
     {
       "Ticker": "SOL-USD",
       "Estado": "OK",
-      "Ultima_vela": "2026-11-04"
+      "Ultima_vela": "2026-11-05"
     },
     {
       "Ticker": "CRCL",
       "Estado": "OK",
-      "Ultima_vela": "2026-11-04"
+      "Ultima_vela": "2026-11-05"
     },
     {
       "Ticker": "PYPL",
       "Estado": "OK",
-      "Ultima_vela": "2026-11-04"
+      "Ultima_vela": "2026-11-05"
     },
     {
       "Ticker": "PGR",
       "Estado": "OK",
-      "Ultima_vela": "2026-11-04"
+      "Ultima_vela": "2026-11-05"
     },
     {
       "Ticker": "LULU",
       "Estado": "OK",
-      "Ultima_vela": "2026-11-04"
+      "Ultima_vela": "2026-11-05"
     },
     {
       "Ticker": "GDDY",
       "Estado": "OK",
-      "Ultima_vela": "2026-11-04"
+      "Ultima_vela": "2026-11-05"
     },
     {
       "Ticker": "ZTS",
       "Estado": "OK",
-      "Ultima_vela": "2026-11-04"
+      "Ultima_vela": "2026-11-05"
     },
     {
       "Ticker": "SAP.DE",
       "Estado": "OK",
-      "Ultima_vela": "2026-11-03"
+      "Ultima_vela": "2026-11-04"
     },
     {
       "Ticker": "ADSK",
       "Estado": "OK",
-      "Ultima_vela": "2026-11-04"
+      "Ultima_vela": "2026-11-05"
     },
     {
       "Ticker": "BKNG",
       "Estado": "OK",
-      "Ultima_vela": "2026-11-04"
+      "Ultima_vela": "2026-11-05"
     },
     {
       "Ticker": "GEN",
       "Estado": "OK",
-      "Ultima_vela": "2026-11-04"
+      "Ultima_vela": "2026-11-05"
     },
     {
       "Ticker": "EXPE",
       "Estado": "OK",
-      "Ultima_vela": "2026-11-04"
+      "Ultima_vela": "2026-11-05"
     },
     {
       "Ticker": "RMD",
       "Estado": "OK",
-      "Ultima_vela": "2026-11-04"
+      "Ultima_vela": "2026-11-05"
     },
     {
       "Ticker": "CPAY",
       "Estado": "OK",
-      "Ultima_vela": "2026-11-04"
+      "Ultima_vela": "2026-11-05"
     },
     {
       "Ticker": "EFX",
       "Estado": "OK",
-      "Ultima_vela": "2026-11-04"
+      "Ultima_vela": "2026-11-05"
     }
   ]
 }
